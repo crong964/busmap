@@ -669,22 +669,6 @@ video {
   width: max-content;
 }
 
-.w-\[60\%\] {
-  width: 60%;
-}
-
-.w-\[50\%\] {
-  width: 50%;
-}
-
-.w-\[100px\] {
-  width: 100px;
-}
-
-.w-\[200px\] {
-  width: 200px;
-}
-
 .min-w-max {
   min-width: -moz-max-content;
   min-width: max-content;
@@ -865,10 +849,6 @@ video {
 
   .sm\:w-\[450px\] {
     width: 450px;
-  }
-
-  .sm\:w-\[400px\] {
-    width: 400px;
   }
 
   .sm\:flex-row {

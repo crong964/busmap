@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html style="height: 100%;" lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta charset="UTF-8" />
+    <title>My Map</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+    <link rel="stylesheet" type="text/css"
+        href="https://api.tomtom.com/maps-sdk-for-web/cdn/6.x/6.25.0/maps/maps.css" />
+    <link rel="stylesheet" href="./output.css">
+    <style>
+        .loader {
+            border: 4px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 4px solid blue;
+            border-bottom: 4px solid blue;
+            width: 20px;
+            height: 20px;
+
+            animation: spin 2s linear infinite;
+        }
+
+        @-webkit-keyframes spin {
+            0% {
+                -webkit-transform: rotate(0deg);
+            }
+
+            100% {
+                -webkit-transform: rotate(360deg);
+            }
+        }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+
+<body style="width: 100%; height: 100%; margin: 0; padding: 0;">
+    <div style="width: 100%; height: 100%; margin: 0; padding: 0;" id="app"></div>
+
+</body>
+<script src="./app.js"></script>
+
+</html>
