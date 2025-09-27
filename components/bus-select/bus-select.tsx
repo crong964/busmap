@@ -23,64 +23,65 @@ export default function BusSelect(p: { map: L.Map, L: any }) {
 
         };
     }, []);
-    const handle = (bus: string, route: string) => {
-        fetch(`/api?bus=${bus}&huong=${route || 1}`)
-            .then((v) => {
-                return v.json()
-            }).then(async (v) => {
-                let data: { stop: iBusStop[], lnglat: iLatLngRes } = v
-                if (data?.lnglat == undefined) {
-                    toast.error("không có dữ liệu")
-                    return
-                }
-                let lnglat = data.lnglat
-                const L = p.L;
-                const coordinates = [...lnglat.lng.map((v, i) => {
-                    return [v, lnglat.lat[i]]
-                })]
-                var myLines = [{
-                    "type": "LineString",
-                    "coordinates": coordinates
-                }] as any
-                var c = color[n % color.length]
-                var myStyle = {
-                    "color": c,
-                    "weight": 5,
-                    "opacity": 1
-                };
-                let f = L.geoJSON(myLines, {
-                    style: myStyle
-                }).addTo(p.map)
-                p.map.setView([lnglat.lat[0], lnglat.lng[0]])
-                var customHtmlIcon = L.divIcon({
-                    className: '',
-                    html: `<div style="background: ${c};" class='mark'>${bus}</div>`,
-                });
-                let mark = new L.Marker([lnglat.lat[0], lnglat.lng[0]], {
-                    icon: customHtmlIcon
-                })
-                p.map.addLayer(mark)
-                setLayers({ ...layers, [bus + route]: { c: c, data: f }, ["mark" + bus + route]: { c: c, data: mark } })
-                setN(n => n + 1);
+    const handle = async (bus: string, route: string) => {
+        try {
+            let json = await Promise.all([fetch(`/bus-stop/bus_${bus}_${route}.json`), fetch(`/lnglat/lnglat_bus_${bus}_${route}.json`)])
+            let res = await Promise.all([json[0].json(), json[1].json()])
+            
+            let data: { stop: iBusStop[], lnglat: iLatLngRes } = { stop: res[0], lnglat: res[1] }
+            if (data?.lnglat == undefined) {
+                toast.error("không có dữ liệu")
+                return
+            }
+            let lnglat = data.lnglat
+            const L = p.L;
+            const coordinates = [...lnglat.lng.map((v, i) => {
+                return [v, lnglat.lat[i]]
+            })]
+            var myLines = [{
+                "type": "LineString",
+                "coordinates": coordinates
+            }] as any
+            var c = color[n % color.length]
+            var myStyle = {
+                "color": c,
+                "weight": 5,
+                "opacity": 1
+            };
+            let f = L.geoJSON(myLines, {
+                style: myStyle
+            }).addTo(p.map)
+            p.map.setView([lnglat.lat[0], lnglat.lng[0]])
+            var customHtmlIcon = L.divIcon({
+                className: '',
+                html: `<div style="background: ${c};" class='mark'>${bus}</div>`,
+            });
+            let mark = new L.Marker([lnglat.lat[0], lnglat.lng[0]], {
+                icon: customHtmlIcon
+            })
+            p.map.addLayer(mark)
+            setLayers({ ...layers, [bus + route]: { c: c, data: f }, ["mark" + bus + route]: { c: c, data: mark } })
+            setN(n => n + 1);
 
-                let busStopsTmp: Layer[] = []
-                for (let i = 1; i < data.stop.length - 1; i++) {
-                    const e = data.stop[i];
-                    var customHtmlIcon2 = L.divIcon({
-                        className: '',
-                        html: `<div style="background: #000;" class='mark2'></div>`,
-                    });
-                    let mark = new L.Marker([e.Lat, e.Lng], {
-                        icon: customHtmlIcon2
-                    }).bindPopup(`${e.Name} ${e.Routes}`);
-                    p.map.addLayer(mark)
-                    busStopsTmp.push(mark)
-                }
-                setBusStop([...busStop, ...busStopsTmp])
-            })
-            .catch((v)=>{
-                toast.error("Không có dữ liệu")
-            })
+            let busStopsTmp: Layer[] = []
+            for (let i = 1; i < data.stop.length - 1; i++) {
+                const e = data.stop[i];
+                var customHtmlIcon2 = L.divIcon({
+                    className: '',
+                    html: `<div style="background: #000;" class='mark2'></div>`,
+                });
+                let mark = new L.Marker([e.Lat, e.Lng], {
+                    icon: customHtmlIcon2
+                }).bindPopup(`${e.Name} ${e.Routes}`);
+                p.map.addLayer(mark)
+                busStopsTmp.push(mark)
+            }
+            setBusStop([...busStop, ...busStopsTmp])
+        } catch (error) {
+
+        }
+
+
     }
 
     return (
