@@ -34,5 +34,18 @@ body {
   align-items: center;
   font-size: large;
   font-weight: 700;
+  fill: white;
+  color: white;
+}
+.mark2 {
+  border-radius: 100%;
+  min-width: 20px;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: large;
+  font-weight: 700;
+  fill: white;
   color: white;
 }
