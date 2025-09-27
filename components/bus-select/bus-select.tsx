@@ -24,10 +24,18 @@ export default function BusSelect(p: { map: L.Map, L: any }) {
         };
     }, []);
     const handle = async (bus: string, route: string) => {
+        let markBus = layers["mark" + bus + route]?.data
+        let markRoute = layers[bus + route]?.data
+        if (markBus && markRoute) {
+            setLayers({ ...layers, [bus + route]: undefined, ["mark" + bus + route]: undefined })
+            p.map.removeLayer(markBus)
+            p.map.removeLayer(markRoute)
+            return
+        }
         try {
             let json = await Promise.all([fetch(`/bus-stop/bus_${bus}_${route}.json`), fetch(`/lnglat/lnglat_bus_${bus}_${route}.json`)])
             let res = await Promise.all([json[0].json(), json[1].json()])
-            
+
             let data: { stop: iBusStop[], lnglat: iLatLngRes } = { stop: res[0], lnglat: res[1] }
             if (data?.lnglat == undefined) {
                 toast.error("không có dữ liệu")

@@ -8,7 +8,7 @@ export default function BusStop(p: { map: L.Map, L: any }) {
     const [loading, setLoading] = useState(false)
     return (
         <>
-            <button onClick={async () => {
+            <button type="button" onClick={async () => {
                 setLoading(true)
                 const map = p.map
                 const L = p.L

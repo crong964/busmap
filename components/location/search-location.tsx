@@ -17,7 +17,7 @@ export default function SearchLocation(p: { map: L.Map, L: any }) {
         }
 
         const markTmp = new L.Marker([parseFloat(s[0]), parseFloat(s[1])]);
-
+        map.setView([parseFloat(s[0]), parseFloat(s[1])])
         map.addLayer(markTmp);
         setMark(markTmp)
     }
