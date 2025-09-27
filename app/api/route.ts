@@ -8,9 +8,7 @@ export async function GET(request: NextRequest) {
     const busstopPath = path.resolve(process.cwd(), "bus-stop", `bus_${bus}_${huong}.json`)
     const lnglatPath = path.resolve(process.cwd(), "lnglat", `lnglat_bus_${bus}_${huong}.json`)
 
-    if (!existsSync(busstopPath)) {
-        return NextResponse.json({ error: 'Internal Server Error' }, { status: 404 })
-    }
+    
     let stop = readFileSync(busstopPath).toString()
     let lnglat = readFileSync(lnglatPath).toString()
 
