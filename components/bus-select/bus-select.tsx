@@ -96,10 +96,7 @@ export default function BusSelect(p: { map: L.Map, L: any }) {
         <>
 
             <SearchLocation {...p} />
-            <div className="fixed top-20 z-9999 left-0  p-1  ">
-                <div className="flex max-lg:w-20 space-x-2 max-lg:flex-col space-x-1  mt-2.5 ">
-
-                </div>
+            <div className="fixed top-20 z-9999 left-0  p-1">
                 <button onClick={() => {
                     setLayers({})
                     setN(0)
@@ -115,7 +112,7 @@ export default function BusSelect(p: { map: L.Map, L: any }) {
                         }
 
                     }
-                }} className="text-white max-lg:w-20 text-sm rounded-2xl shadow-2xl  bg-blue-500 hover:bg-blue-300 font-bold cursor-pointer py-2 my-2">Xóa toàn bộ</button>
+                }} className="max-lg:w-20 text-sm text-white rounded-2xl shadow-2xl  bg-blue-500 hover:bg-blue-300 font-bold cursor-pointer py-2 my-2">Xóa toàn bộ</button>
             </div>
             <div className="fixed w-full bottom-0  z-9999 ">
                 <div className=" flex space-y-3 max-lg:flex-col lg:justify-around space-x-1 bg-white">
@@ -162,7 +159,7 @@ export default function BusSelect(p: { map: L.Map, L: any }) {
                     </div>
                     <div className="">
                         <div className="flex mb-2 space-x-1">
-                            <div className="sticky  bg-white">lượt về</div>
+                            <div className="text-red-800 ">lượt về</div>
                             <form onSubmit={(e) => {
                                 e.preventDefault()
                                 handle(busNumber, "2")

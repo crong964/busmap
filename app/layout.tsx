@@ -30,13 +30,9 @@ export default function RootLayout({
           integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
           crossOrigin="" />
       </head>
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        <div className="contain-layout">
-          {children}
-          <ToastContainer />
-        </div>
+      <body className="">
+        {children}
+        <ToastContainer />
       </body>
     </html>
   );

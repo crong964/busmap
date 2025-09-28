@@ -40,7 +40,7 @@ export default function MapLeafLet() {
         };
     }, []);
     return (
-        <div className=" relative">
+        <>
             <div id="maps" ref={refmap} className="h-screen w-screen">
 
             </div>
@@ -51,6 +51,6 @@ export default function MapLeafLet() {
                     </> : <></>
             }
 
-        </div>
+        </>
     )
 }
