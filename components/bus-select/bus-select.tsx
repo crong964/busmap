@@ -76,7 +76,7 @@ export default function BusSelect(p: { map: L.Map, L: any }) {
                 const e = data.stop[i];
                 var customHtmlIcon2 = L.divIcon({
                     className: '',
-                    html: `<div style="background: #000;" class='mark2'></div>`,
+                    html: `<div  class='mark2'><div class='mark3'></div></div>`,
                 });
                 let mark = new L.Marker([e.Lat, e.Lng], {
                     icon: customHtmlIcon2

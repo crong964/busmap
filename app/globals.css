@@ -37,15 +37,21 @@ body {
   fill: white;
   color: white;
 }
-.mark2 {
+
+.mark3 {
   border-radius: 100%;
-  min-width: 20px;
+  width: 10px;
+  aspect-ratio: 1 / 1;
+  background: rgb(0, 0, 0);
+}
+
+.mark2 {
+  background: #ffffff00;
+  width: 40px;
+  cursor: pointer;
+  border-radius: 100%;
   aspect-ratio: 1 / 1;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size: large;
-  font-weight: 700;
-  fill: white;
-  color: white;
 }
