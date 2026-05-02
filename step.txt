@@ -1,0 +1,7 @@
+b1: lên trên web https://buyttphcm.com.vn/Route
+b2: copy html
+b3 copy j.js. vào html
+b4 run node ./bus.js
+b5 run node ./stop.js
+b6 copy ./bus-top và ./lnglat vào folder public
+b7 copy ./stop.json vào folder lib

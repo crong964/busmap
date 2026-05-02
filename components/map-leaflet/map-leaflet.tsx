@@ -1,11 +1,8 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
-import { iLatLng } from "./interface";
-import { toast } from "react-toastify";
 import BusSelect from "../bus-select/bus-select";
 import LocationWatch from "../location/watch-location";
-
 export default function MapLeafLet() {
   const refmap = useRef<any>(null);
   const [map, setMap] = useState<L.Map | undefined>();
@@ -21,13 +18,13 @@ export default function MapLeafLet() {
         {
           alt: "vị trí của bạn",
           draggable: true,
-        }
+        },
       );
 
       mark.on("dragend", (ev) => {});
       const map = L.map("maps").setView(
         [10.906132709550574, 106.8849634786165],
-        13
+        13,
       );
       const tiles = L.tileLayer(
         "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
@@ -35,7 +32,7 @@ export default function MapLeafLet() {
           maxZoom: 19,
           attribution:
             '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        }
+        },
       ).addTo(map);
       setMap(map);
     };
@@ -47,7 +44,8 @@ export default function MapLeafLet() {
       <div id="maps" ref={refmap} className="h-screen w-screen"></div>
       {map ? (
         <>
-          <BusSelect map={map} L={l} /> <LocationWatch map={map} L={l} />
+          <BusSelect map={map} L={l} />
+          <LocationWatch map={map} L={l} />
         </>
       ) : (
         <></>

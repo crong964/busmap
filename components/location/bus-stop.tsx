@@ -2,7 +2,8 @@
 import { useState } from "react";
 import { iBusStop } from "../map-leaflet/interface";
 import { BusFront, FlagOff } from "lucide-react";
-
+import stop from "@/lib/stop.json";
+import DistanceFlat from "@/lib/distanceFlat";
 export default function BusStop(p: { map: L.Map; L: any }) {
   const [marks, setMarks] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
@@ -16,10 +17,16 @@ export default function BusStop(p: { map: L.Map; L: any }) {
           const L = p.L;
           const latlng = map.getCenter();
           try {
-            let json = await fetch(
-              `/api/bus-stop?lat=${latlng.lat}&lng=${latlng.lng}`
-            );
-            let data = (await json.json()) as iBusStop[];
+            let data: iBusStop[] = [];
+            for (let i = 0; i < stop.length; i++) {
+              const element = stop[i];
+              let distanceFlat =
+                DistanceFlat(latlng.lat, latlng.lng, element.Lat, element.Lng) *
+                1000;
+              if (distanceFlat <= 600) {
+                data.push(element as iBusStop);
+              }
+            }
             let markstmp = [];
             for (let i = 0; i < data.length; i++) {
               const e = data[i];
