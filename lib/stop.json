@@ -15100,7 +15100,7 @@
     "Status": "Đang khai thác",
     "Lng": 106.652607,
     "Lat": 10.751259,
-    "Search": "BxbCL-A BXBCLA LQS",
+    "Search": "-BxbCLA BXBCLA LQS",
     "Routes": "103, 16"
   },
   {
@@ -15373,22 +15373,6 @@
     "Lng": 106.656218,
     "Lat": 10.791448,
     "Search": "CxTD 1130 CMTT",
-    "Routes": "103, 13, 30, 65"
-  },
-  {
-    "StopId": 908,
-    "Code": "QTB 058",
-    "Name": "Bệnh viện Thống Nhất",
-    "StopType": "Nhà chờ",
-    "Zone": "Quận Tân Bình",
-    "Ward": null,
-    "AddressNo": "1236 (544)",
-    "Street": "Cách Mạng Tháng Tám",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.653991,
-    "Lat": 10.792649,
-    "Search": "BvTN 1236( CMTT",
     "Routes": "103, 13, 30, 65"
   },
   {
@@ -16429,22 +16413,6 @@
     "Lng": 106.65846,
     "Lat": 10.790114,
     "Search": "HBCH 1003 CMTT",
-    "Routes": "103, 13, 30, 65"
-  },
-  {
-    "StopId": 1002,
-    "Code": "QTB 062",
-    "Name": "Ông Tạ",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận Tân Bình",
-    "Ward": null,
-    "AddressNo": "907",
-    "Street": "Cách Mạng Tháng Tám",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.660075,
-    "Lat": 10.789261,
-    "Search": "OT 907 CMTT",
     "Routes": "103, 13, 30, 65"
   },
   {
@@ -23082,8 +23050,8 @@
     "Street": "Lý Nhơn",
     "SupportDisability": "",
     "Status": "Đang khai thác",
-    "Lng": 106.777164,
-    "Lat": 10.552764,
+    "Lng": 106.770566,
+    "Lat": 10.559245,
     "Search": "CxCT CxCT LN",
     "Routes": "128"
   },
@@ -23370,8 +23338,8 @@
     "Street": "Lý Nhơn",
     "SupportDisability": "Có",
     "Status": "Đang khai thác",
-    "Lng": 106.776488,
-    "Lat": 10.553065,
+    "Lng": 106.770437,
+    "Lat": 10.559836,
     "Search": "CxCT DdCxCT LN",
     "Routes": "128"
   },
@@ -24512,22 +24480,6 @@
     "Routes": "13, 152, 31, 38, 56, 65"
   },
   {
-    "StopId": 1297,
-    "Code": "Q1 003",
-    "Name": "Trống Đồng",
-    "StopType": "Nhà chờ",
-    "Zone": "Quận 1",
-    "Ward": null,
-    "AddressNo": "Đối diện số 89",
-    "Street": "Cách Mạng Tháng Tám",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.690813,
-    "Lat": 10.773046,
-    "Search": "TD Dds89 CMTT",
-    "Routes": "13, 28, 38, 65, 69"
-  },
-  {
     "StopId": 3478,
     "Code": "Q3 006",
     "Name": "Võ Văn Tần",
@@ -24592,22 +24544,6 @@
     "Routes": "13, 30, 65"
   },
   {
-    "StopId": 1298,
-    "Code": "Q3 010",
-    "Name": "Ngã Ba Chí Hòa",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận 3",
-    "Ward": "Phường 10",
-    "AddressNo": "276 Bis",
-    "Street": "Cách Mạng Tháng Tám",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.67315,
-    "Lat": 10.78237,
-    "Search": "NBCH 276B CMTT",
-    "Routes": "13, 30, 65"
-  },
-  {
     "StopId": 2711,
     "Code": "Q3 011",
     "Name": "Chùa Bửu Đà",
@@ -24621,22 +24557,6 @@
     "Lng": 106.674741,
     "Lat": 10.78163,
     "Search": "CBD 338-340 CMTT",
-    "Routes": "13, 30, 65"
-  },
-  {
-    "StopId": 2709,
-    "Code": "Q3 012",
-    "Name": "Rạp hát Thanh Vân",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận 3",
-    "Ward": "Phường 10",
-    "AddressNo": "366",
-    "Street": "Cách Mạng Tháng Tám",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.673148,
-    "Lat": 10.782368,
-    "Search": "RhTV 366 CMTT",
     "Routes": "13, 30, 65"
   },
   {
@@ -26062,22 +25982,6 @@
     "Lat": 10.77469,
     "Search": "VVT 179C CMTT",
     "Routes": "13, 28, 65"
-  },
-  {
-    "StopId": 1396,
-    "Code": "Q1 004",
-    "Name": "Trống Đồng",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận 1",
-    "Ward": null,
-    "AddressNo": "85",
-    "Street": "Cách Mạng Tháng Tám",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.691499,
-    "Lat": 10.772345,
-    "Search": "TD 85 CMTT",
-    "Routes": "13, 28, 38, 65, 69"
   },
   {
     "StopId": 1401,
@@ -29244,7 +29148,7 @@
     "Status": "Đang khai thác",
     "Lng": 106.638579,
     "Lat": 10.87814,
-    "Search": "NVhLdQ12 DdnvhldQ12 NAT",
+    "Search": "NVhLd12Q DdnvhldQ12 NAT",
     "Routes": "145, 18"
   },
   {
@@ -31042,23 +30946,7 @@
   {
     "StopId": 1405,
     "Code": "QBTH 034",
-    "Name": "Trường ĐH Giao thông Vận tải Tp. HCM",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận Bình Thạnh",
-    "Ward": null,
-    "AddressNo": "127-129",
-    "Street": "Nguyễn Gia Trí",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.716047,
-    "Lat": 10.806602,
-    "Search": "TDGtVtTH 127-129 NGT",
-    "Routes": "14, 158, 19, 43, 45"
-  },
-  {
-    "StopId": 1407,
-    "Code": "QBTH 035",
-    "Name": "Đại học Ngoại Thương",
+    "Name": "Đại học Ngoại thương TP. HCM",
     "StopType": "Trụ dừng",
     "Zone": "Quận Bình Thạnh",
     "Ward": null,
@@ -31066,9 +30954,25 @@
     "Street": "Nguyễn Gia Trí",
     "SupportDisability": "",
     "Status": "Đang khai thác",
+    "Lng": 106.716047,
+    "Lat": 10.806602,
+    "Search": "DhNtTH 211-213( NGT",
+    "Routes": "14, 158, 19, 43, 45"
+  },
+  {
+    "StopId": 1407,
+    "Code": "QBTH 035",
+    "Name": "Trường ĐH Giao thông Vận tải TP. HCM",
+    "StopType": "Trụ dừng",
+    "Zone": "Quận Bình Thạnh",
+    "Ward": null,
+    "AddressNo": "125-127 (74 Cư xá Văn Thánh Bắc)",
+    "Street": "Nguyễn Gia Trí",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
     "Lng": 106.715875,
     "Lat": 10.804795,
-    "Search": "DhNT 211-213( NGT",
+    "Search": "TDGtVtTH 125-127(CxVTB NGT",
     "Routes": "14, 158, 19, 43, 45"
   },
   {
@@ -32582,30 +32486,46 @@
     "StopType": "Trụ dừng",
     "Zone": "Quận Bình Tân",
     "Ward": "Phường Tân Tạo",
-    "AddressNo": "978A",
+    "AddressNo": "950",
     "Street": "Quốc lộ 1A",
     "SupportDisability": "",
     "Status": "Đang khai thác",
     "Lng": 106.590683,
     "Lat": 10.762401,
-    "Search": "BH 978A Ql1A",
+    "Search": "BH 950 Ql1A",
     "Routes": "15, 151, 25, 60-1"
   },
   {
     "StopId": 1791,
     "Code": "QBT 087",
-    "Name": "Nhà sách Tân Tạo",
+    "Name": "Tỉnh lộ 10",
     "StopType": "Trụ dừng",
     "Zone": "Quận Bình Tân",
     "Ward": "Phường Tân Tạo",
-    "AddressNo": "1024",
+    "AddressNo": "978A",
     "Street": "Quốc lộ 1A",
     "SupportDisability": "",
     "Status": "Đang khai thác",
     "Lng": 106.591492,
     "Lat": 10.758026,
-    "Search": "NsTT 1024 Ql1A",
+    "Search": "Tl10 978A Ql1A",
     "Routes": "15, 151, 25, 60-1"
+  },
+  {
+    "StopId": 10068,
+    "Code": "QBT 328",
+    "Name": "Nhà sách Tân Tạo",
+    "StopType": "Trụ dừng",
+    "Zone": "Quận Bình Tân",
+    "Ward": "Phường Tân Tạo",
+    "AddressNo": "1024",
+    "Street": "Lê Đức Anh",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.591848,
+    "Lat": 10.755766,
+    "Search": "NsTT 1024 LDA",
+    "Routes": "15, 151, 60-1, 73"
   },
   {
     "StopId": 1790,
@@ -32653,7 +32573,7 @@
     "Lng": 106.597519,
     "Lat": 10.743526,
     "Search": "CtHT A( Ql1A",
-    "Routes": "15, 151"
+    "Routes": "15, 151, 60-1"
   },
   {
     "StopId": 1794,
@@ -35817,7 +35737,7 @@
     "AddressNo": "46-48",
     "Street": "Nguyễn Gia Trí",
     "SupportDisability": "Có",
-    "Status": "Chưa khai thác",
+    "Status": "Đang khai thác",
     "Lng": 106.715791,
     "Lat": 10.802674,
     "Search": "H36NGT 46-48 NGT",
@@ -35829,11 +35749,11 @@
     "Name": "Đường Võ Oanh",
     "StopType": "Trụ dừng",
     "Zone": "Quận Bình Thạnh",
-    "Ward": "Phường 25",
+    "Ward": null,
     "AddressNo": "116-118",
     "Street": "Nguyễn Gia Trí",
     "SupportDisability": "Có",
-    "Status": "Chưa khai thác",
+    "Status": "Đang khai thác",
     "Lng": 106.715999,
     "Lat": 10.804683,
     "Search": "DVO 116-118 NGT",
@@ -35997,6 +35917,22 @@
     "Lng": 106.717368,
     "Lat": 10.7974,
     "Search": "BxbGMVT H135 NHC",
+    "Routes": "159, 160"
+  },
+  {
+    "StopId": 10066,
+    "Code": "QBTH 187",
+    "Name": "Ga Văn Thánh",
+    "StopType": "Ô sơn",
+    "Zone": "Quận Bình Thạnh",
+    "Ward": null,
+    "AddressNo": "Ga Văn Thánh",
+    "Street": "Hẻm 602",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.716406,
+    "Lat": 10.796681,
+    "Search": "GVT GVT H602",
     "Routes": "159, 160"
   },
   {
@@ -39724,7 +39660,7 @@
     "Status": "Đang khai thác",
     "Lng": 106.780604,
     "Lat": 10.859779,
-    "Search": "STLV PtSTLV( LT",
+    "Search": "LVST PtSTLV( LT",
     "Routes": "167V"
   },
   {
