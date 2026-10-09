@@ -429,7 +429,7 @@
     "Lng": 106.658894,
     "Lat": 10.751381,
     "Search": "BdQ5 13-15 CVL",
-    "Routes": "01, 07, 08, 10, 45, 56, 62, DL03"
+    "Routes": "01, 07, 08, 08_TC, 10, 45, 56, 62, DL03"
   },
   {
     "StopId": 138,
@@ -957,7 +957,7 @@
     "Lng": 106.70696,
     "Lat": 10.776845,
     "Search": "BtTDT Dds1A(dDtQd TDT",
-    "Routes": "01, 53, 56, 88"
+    "Routes": "01, 180, 53, 56, 88"
   },
   {
     "StopId": 1094,
@@ -973,7 +973,7 @@
     "Lng": 106.706922,
     "Lat": 10.781804,
     "Search": "BS 2 TDT",
-    "Routes": "01, 44, 53, 56, 88"
+    "Routes": "01, 180, 44, 53, 56, 88"
   },
   {
     "StopId": 1095,
@@ -989,7 +989,7 @@
     "Lng": 106.704363,
     "Lat": 10.784286,
     "Search": "TSG 6 TDT",
-    "Routes": "01, 30, 44, DL01"
+    "Routes": "01, 180, 30, 44, DL01"
   },
   {
     "StopId": 1189,
@@ -2477,7 +2477,7 @@
     "Lng": 106.701744,
     "Lat": 10.779385,
     "Search": "BvND2 K115 HBT",
-    "Routes": "03, 19, 45"
+    "Routes": "03, 180, 19, 45"
   },
   {
     "StopId": 238,
@@ -2509,7 +2509,7 @@
     "Lng": 106.705635,
     "Lat": 10.775976,
     "Search": "CTML Dd2 HBT",
-    "Routes": "03, 19, 45"
+    "Routes": "03, 180, 19, 45"
   },
   {
     "StopId": 7270,
@@ -2877,7 +2877,7 @@
     "Lng": 106.66678,
     "Lat": 10.800848,
     "Search": "CtSQK7 A(vdQk7) PDG",
-    "Routes": "04, 07, 08, 104, 109, 152, 63-1, 64, 72-1, 72-2B"
+    "Routes": "04, 07, 08, 08_TC, 104, 109, 152, 63-1, 64, 72-1, 72-2B"
   },
   {
     "StopId": 258,
@@ -2893,7 +2893,7 @@
     "Lng": 106.662312,
     "Lat": 10.801365,
     "Search": "VxLCC 20 TQH",
-    "Routes": "04, 08, 103, 104, 148, 152, 50, 59, 63-1, 64, 72-2B"
+    "Routes": "04, 08, 08_TC, 103, 104, 148, 152, 50, 59, 63-1, 64, 72-2B"
   },
   {
     "StopId": 259,
@@ -5069,7 +5069,7 @@
     "Lng": 106.711257,
     "Lat": 10.816661,
     "Search": "CvxMD 78/3 DBL",
-    "Routes": "05, 08, 14, 146, 161, 171, 19, 24, 43, 45, 60-3, 64, 67, 91, 93"
+    "Routes": "05, 08, 08_TC, 14, 146, 161, 171, 19, 24, 43, 45, 60-3, 64, 67, 91, 93"
   },
   {
     "StopId": 362,
@@ -5085,7 +5085,7 @@
     "Lng": 106.709223,
     "Lat": 10.812625,
     "Search": "NTNX 291-293 DBL",
-    "Routes": "05, 08, 146, 161, 171, 24, 60-3, 67, 91, 93"
+    "Routes": "05, 08, 08_TC, 146, 161, 171, 24, 60-3, 67, 91, 93"
   },
   {
     "StopId": 363,
@@ -5101,7 +5101,7 @@
     "Lng": 106.709143,
     "Lat": 10.809759,
     "Search": "NTCVA 183 DBL",
-    "Routes": "05, 08, 146, 161, 171, 24, 60-3, 67, 91, 93"
+    "Routes": "05, 08, 08_TC, 146, 161, 171, 24, 60-3, 67, 91, 93"
   },
   {
     "StopId": 364,
@@ -5117,7 +5117,7 @@
     "Lng": 106.709341,
     "Lat": 10.806908,
     "Search": "CDBL 85 DBL",
-    "Routes": "05, 08, 146, 161, 171, 24, 60-3, 67, 91, 93"
+    "Routes": "05, 08, 08_TC, 146, 161, 171, 24, 60-3, 67, 91, 93"
   },
   {
     "StopId": 365,
@@ -5133,7 +5133,7 @@
     "Lng": 106.709395,
     "Lat": 10.804421,
     "Search": "Txd 17 DBL",
-    "Routes": "05, 08, 146, 161, 171, 24, 60-3, 67, 91, 93"
+    "Routes": "05, 08, 08_TC, 146, 161, 171, 24, 60-3, 67, 91, 93"
   },
   {
     "StopId": 366,
@@ -5901,7 +5901,7 @@
     "Lng": 106.7342,
     "Lat": 10.799978,
     "Search": "GTD 794 VNG",
-    "Routes": "06, 10, 150, 154, 52, 53, 56, 60-3, 67, 72-1"
+    "Routes": "06, 10, 150, 154, 180, 52, 53, 56, 60-3, 67, 72-1"
   },
   {
     "StopId": 478,
@@ -5917,7 +5917,7 @@
     "Lng": 106.738899,
     "Lat": 10.800838,
     "Search": "TD Ddn3TD VNG",
-    "Routes": "06, 10, 150, 154, 52, 53, 56, 60-3, 67, 72-1"
+    "Routes": "06, 10, 150, 154, 180, 52, 53, 56, 60-3, 67, 72-1"
   },
   {
     "StopId": 480,
@@ -5933,7 +5933,7 @@
     "Lng": 106.742383,
     "Lat": 10.801532,
     "Search": "GAP 170 VNG",
-    "Routes": "06, 10, 150, 154, 52, 53, 56, 60-3, 67, 72-1"
+    "Routes": "06, 10, 150, 154, 180, 52, 53, 56, 60-3, 67, 72-1"
   },
   {
     "StopId": 479,
@@ -5949,7 +5949,7 @@
     "Lng": 106.748089,
     "Lat": 10.802592,
     "Search": "CL KdcE VNG",
-    "Routes": "06, 10, 150, 52, 53, 56, 60-3, 67, 72-1"
+    "Routes": "06, 10, 150, 180, 52, 53, 56, 60-3, 67, 72-1"
   },
   {
     "StopId": 482,
@@ -5965,7 +5965,7 @@
     "Lng": 106.758655,
     "Lat": 10.820865,
     "Search": "GPL 249B VNG",
-    "Routes": "06, 10, 150, 52, 53, 56, 60-3, 67, 99"
+    "Routes": "06, 10, 150, 180, 52, 53, 56, 60-3, 67, 99"
   },
   {
     "StopId": 481,
@@ -5981,7 +5981,7 @@
     "Lng": 106.760775,
     "Lat": 10.825972,
     "Search": "N4TH( 185A VNG",
-    "Routes": "06, 10, 150, 52, 53, 56, 60-3, 67, 99"
+    "Routes": "06, 10, 150, 180, 52, 53, 56, 60-3, 67, 99"
   },
   {
     "StopId": 485,
@@ -5997,7 +5997,7 @@
     "Lng": 106.76312,
     "Lat": 10.829955,
     "Search": "Txd 354A VNG",
-    "Routes": "06, 10, 150, 52, 53, 56, 60-3, 67"
+    "Routes": "06, 10, 150, 180, 52, 53, 56, 60-3, 67"
   },
   {
     "StopId": 483,
@@ -6013,7 +6013,7 @@
     "Lng": 106.76415,
     "Lat": 10.831921,
     "Search": "GBT 360 VNG",
-    "Routes": "06, 10, 150, 52, 53, 56, 60-3, 67"
+    "Routes": "06, 10, 150, 180, 52, 53, 56, 60-3, 67"
   },
   {
     "StopId": 8196,
@@ -6285,7 +6285,7 @@
     "Lng": 106.791138,
     "Lat": 10.860218,
     "Search": "KCnc DdKcnc XLHN",
-    "Routes": "06, 08, 10, 150, 52, 60-3, 67, 76"
+    "Routes": "06, 08, 08_TC, 10, 150, 52, 60-3, 67, 76"
   },
   {
     "StopId": 4392,
@@ -6301,7 +6301,7 @@
     "Lng": 106.788633,
     "Lat": 10.858716,
     "Search": "GKcnc DdKCNCQ XLHN",
-    "Routes": "06, 08, 10, 150, 52, 60-3, 67, 76"
+    "Routes": "06, 08, 08_TC, 10, 150, 52, 60-3, 67, 76"
   },
   {
     "StopId": 401,
@@ -6317,7 +6317,7 @@
     "Lng": 106.784964,
     "Lat": 10.856483,
     "Search": "CtC CtC XLHN",
-    "Routes": "06, 08, 10, 150, 52, 60-3, 67, 76"
+    "Routes": "06, 08, 08_TC, 10, 150, 52, 60-3, 67, 76"
   },
   {
     "StopId": 400,
@@ -6333,7 +6333,7 @@
     "Lng": 106.772105,
     "Lat": 10.849871,
     "Search": "TDhCnKtT 1 VVN",
-    "Routes": "06, 08, 141, 168D, 56, 57"
+    "Routes": "06, 08, 08_TC, 141, 168D, 56, 57"
   },
   {
     "StopId": 402,
@@ -6349,7 +6349,7 @@
     "Lng": 106.768837,
     "Lat": 10.849805,
     "Search": "StNK 307( VVN",
-    "Routes": "06, 08, 141, 168D, 56, 57, 89"
+    "Routes": "06, 08, 08_TC, 141, 168D, 56, 57, 89"
   },
   {
     "StopId": 403,
@@ -6365,7 +6365,7 @@
     "Lng": 106.766794,
     "Lat": 10.850556,
     "Search": "NtnTD Ntn VVN",
-    "Routes": "06, 08, 141, 168D, 169D, 56, 57, 89"
+    "Routes": "06, 08, 08_TC, 141, 168D, 169D, 56, 57, 89"
   },
   {
     "StopId": 404,
@@ -6381,7 +6381,7 @@
     "Lng": 106.764101,
     "Lat": 10.850808,
     "Search": "PhTDhXdHNtT 233( VVN",
-    "Routes": "06, 08, 141, 168D, 169D, 56, 57, 89"
+    "Routes": "06, 08, 08_TC, 141, 168D, 169D, 56, 57, 89"
   },
   {
     "StopId": 405,
@@ -6397,7 +6397,7 @@
     "Lng": 106.760201,
     "Lat": 10.850645,
     "Search": "NbCD Dd100 VVN",
-    "Routes": "06, 08, 141, 168D, 169D, 56, 57, 89"
+    "Routes": "06, 08, 08_TC, 141, 168D, 169D, 56, 57, 89"
   },
   {
     "StopId": 406,
@@ -6509,7 +6509,7 @@
     "Lng": 106.765244,
     "Lat": 10.834945,
     "Search": "N4BT Dd592C VNG",
-    "Routes": "06, 10, 150, 52, 53, 56, 60-3, 67"
+    "Routes": "06, 10, 150, 180, 52, 53, 56, 60-3, 67"
   },
   {
     "StopId": 413,
@@ -6525,7 +6525,7 @@
     "Lng": 106.763635,
     "Lat": 10.831957,
     "Search": "GBT Ctttd4 VNG",
-    "Routes": "06, 10, 150, 52, 53, 56, 60-3, 67"
+    "Routes": "06, 10, 150, 180, 52, 53, 56, 60-3, 67"
   },
   {
     "StopId": 412,
@@ -6541,7 +6541,7 @@
     "Lng": 106.759998,
     "Lat": 10.825366,
     "Search": "N4TH( NmtTD VNG",
-    "Routes": "06, 10, 150, 52, 53, 56, 60-3, 67, 99"
+    "Routes": "06, 10, 150, 180, 52, 53, 56, 60-3, 67, 99"
   },
   {
     "StopId": 414,
@@ -6557,7 +6557,7 @@
     "Lng": 106.758142,
     "Lat": 10.820576,
     "Search": "GPL XmHT1 VNG",
-    "Routes": "06, 10, 150, 52, 53, 56, 60-3, 67, 99"
+    "Routes": "06, 10, 150, 180, 52, 53, 56, 60-3, 67, 99"
   },
   {
     "StopId": 415,
@@ -6573,7 +6573,7 @@
     "Lng": 106.747948,
     "Lat": 10.802925,
     "Search": "CL DdE VNG",
-    "Routes": "06, 10, 150, 153, 52, 53, 56, 60-3, 67"
+    "Routes": "06, 10, 150, 153, 180, 52, 53, 56, 60-3, 67"
   },
   {
     "StopId": 416,
@@ -6589,7 +6589,7 @@
     "Lng": 106.7434,
     "Lat": 10.802134,
     "Search": "StMM 655 VNG",
-    "Routes": "06, 10, 150, 153, 154, 52, 53, 56, 60-3, 67"
+    "Routes": "06, 10, 150, 153, 154, 180, 52, 53, 56, 60-3, 67"
   },
   {
     "StopId": 8154,
@@ -6605,7 +6605,7 @@
     "Lng": 106.741589,
     "Lat": 10.801817,
     "Search": "GAP 159 VNG",
-    "Routes": "06, 150, 153, 154, 52, 53, 56, 60-3, 67"
+    "Routes": "06, 150, 153, 154, 180, 52, 53, 56, 60-3, 67"
   },
   {
     "StopId": 417,
@@ -6621,7 +6621,7 @@
     "Lng": 106.738762,
     "Lat": 10.801309,
     "Search": "TD NbTD VNG",
-    "Routes": "06, 10, 150, 153, 154, 52, 53, 56, 60-3, 67, 72-1"
+    "Routes": "06, 10, 150, 153, 154, 180, 52, 53, 56, 60-3, 67, 72-1"
   },
   {
     "StopId": 418,
@@ -6637,7 +6637,7 @@
     "Lng": 106.73436,
     "Lat": 10.800451,
     "Search": "GTD GTD VNG",
-    "Routes": "06, 10, 150, 154, 52, 53, 56, 60-3, 67, 72-1"
+    "Routes": "06, 10, 150, 154, 180, 52, 53, 56, 60-3, 67, 72-1"
   },
   {
     "StopId": 419,
@@ -6653,7 +6653,7 @@
     "Lng": 106.719571,
     "Lat": 10.798893,
     "Search": "CSG 24(597) DBP",
-    "Routes": "06, 10, 104, 150, 157, 158, 159, 160, 161, 30, 43, 52, 55, 60-3, 67"
+    "Routes": "06, 10, 104, 150, 157, 158, 159, 160, 161, 180, 30, 43, 52, 55, 60-3, 67"
   },
   {
     "StopId": 420,
@@ -6877,7 +6877,7 @@
     "Lng": 106.661072,
     "Lat": 10.755196,
     "Search": "HVP 132 HB",
-    "Routes": "06, 07, 08, 10, 139, 150, 56, 62, 63-1, 68, 91"
+    "Routes": "06, 07, 08, 08_TC, 10, 139, 150, 56, 62, 63-1, 68, 91"
   },
   {
     "StopId": 436,
@@ -6893,7 +6893,7 @@
     "Lng": 106.659501,
     "Lat": 10.754875,
     "Search": "BvCR 172 HB",
-    "Routes": "06, 07, 08, 10, 139, 150, 56, 62, 63-1, 68, 91"
+    "Routes": "06, 07, 08, 08_TC, 10, 139, 150, 56, 62, 63-1, 68, 91"
   },
   {
     "StopId": 435,
@@ -7917,7 +7917,7 @@
     "Lng": 106.658792,
     "Lat": 10.752445,
     "Search": "RDQ 81 CVL",
-    "Routes": "07, 08, 10, 45, 56, 62"
+    "Routes": "07, 08, 08_TC, 10, 45, 56, 62"
   },
   {
     "StopId": 496,
@@ -7933,7 +7933,7 @@
     "Lng": 106.656357,
     "Lat": 10.733545,
     "Search": "BxbQ8 BXBQ8 Ql50",
-    "Routes": "08, 22, 25, 34, 59, 62, 62-11, 62-9"
+    "Routes": "08, 08_TC, 22, 25, 34, 59, 62, 62-11, 62-9"
   },
   {
     "StopId": 502,
@@ -8749,7 +8749,7 @@
     "Lng": 106.804968,
     "Lat": 10.875886,
     "Search": "KKADQGT NgQt(v QTST",
-    "Routes": "08, 10, 166, 170, 19, 52, 61-77, 99"
+    "Routes": "08, 08_TC, 10, 166, 170, 19, 52, 61-77, 99"
   },
   {
     "StopId": 7623,
@@ -8765,7 +8765,7 @@
     "Lng": 106.802537,
     "Lat": 10.876655,
     "Search": "DhQt(Q DhQt QTST",
-    "Routes": "08, 10, 19, 50, 52, 53, 60-5"
+    "Routes": "08, 08_TC, 10, 19, 50, 52, 53, 60-5"
   },
   {
     "StopId": 7646,
@@ -8781,7 +8781,7 @@
     "Lng": 106.799995,
     "Lat": 10.874542,
     "Search": "Nvhsv ddnvhsv QTST",
-    "Routes": "08, 10, 19, 50, 52, 53, 60-5"
+    "Routes": "08, 08_TC, 10, 19, 50, 52, 53, 60-5"
   },
   {
     "StopId": 7632,
@@ -8797,7 +8797,7 @@
     "Lng": 106.802334,
     "Lat": 10.873446,
     "Search": "DhKhxhvNv DhKhxhvnv QTST",
-    "Routes": "08, 10, 166, 170, 19, 50, 52, 53, 60-5"
+    "Routes": "08, 08_TC, 10, 166, 170, 19, 50, 52, 53, 60-5"
   },
   {
     "StopId": 7633,
@@ -8813,7 +8813,7 @@
     "Lng": 106.805858,
     "Lat": 10.877729,
     "Search": "KKAD KKAD(161-163) TQB",
-    "Routes": "08, 10, 166, 19"
+    "Routes": "08, 08_TC, 10, 166, 19"
   },
   {
     "StopId": 7636,
@@ -8829,7 +8829,7 @@
     "Lng": 106.80729,
     "Lat": 10.879921,
     "Search": "DhBK-D DdDBK( TQB",
-    "Routes": "08, 10, 166, 19, 50"
+    "Routes": "08, 08_TC, 10, 166, 19, 50"
   },
   {
     "StopId": 8297,
@@ -8845,7 +8845,7 @@
     "Lng": 106.810634,
     "Lat": 10.880791,
     "Search": "TAKKA Dd136-138 NBK",
-    "Routes": "08, 10, 166, 19, 50, 60-5"
+    "Routes": "08, 08_TC, 10, 166, 19, 50, 60-5"
   },
   {
     "StopId": 8295,
@@ -8861,7 +8861,7 @@
     "Lng": 106.807541,
     "Lat": 10.876186,
     "Search": "BxbKA DdChTE NBK",
-    "Routes": "08, 10, 166, 19, 50, 60-5"
+    "Routes": "08, 08_TC, 10, 166, 19, 50, 60-5"
   },
   {
     "StopId": 7829,
@@ -8893,7 +8893,7 @@
     "Lng": 106.80753,
     "Lat": 10.87592,
     "Search": "BxbKA 28-30 NBK",
-    "Routes": "08, 10, 19, 50, 60-5"
+    "Routes": "08, 08_TC, 10, 19, 50, 60-5"
   },
   {
     "StopId": 8296,
@@ -8909,7 +8909,7 @@
     "Lng": 106.81078,
     "Lat": 10.8807,
     "Search": "TAKKA 136-138 NBK",
-    "Routes": "08, 10, 19, 50, 60-5"
+    "Routes": "08, 08_TC, 10, 19, 50, 60-5"
   },
   {
     "StopId": 7635,
@@ -8925,7 +8925,7 @@
     "Lng": 106.807156,
     "Lat": 10.879968,
     "Search": "DhBK-D DhBK( TQB",
-    "Routes": "08, 10, 19, 50"
+    "Routes": "08, 08_TC, 10, 19, 50"
   },
   {
     "StopId": 7634,
@@ -8941,7 +8941,7 @@
     "Lng": 106.805692,
     "Lat": 10.877777,
     "Search": "KKAD DdKKAD( TQB",
-    "Routes": "08, 10, 19"
+    "Routes": "08, 08_TC, 10, 19"
   },
   {
     "StopId": 7651,
@@ -8957,7 +8957,7 @@
     "Lng": 106.806271,
     "Lat": 10.874619,
     "Search": "VdDT ddtC D621",
-    "Routes": "08, 10, 19, 52, 53, 60-5, 61-77, 99"
+    "Routes": "08, 08_TC, 10, 19, 52, 53, 60-5, 61-77, 99"
   },
   {
     "StopId": 572,
@@ -8973,7 +8973,7 @@
     "Lng": 106.806657,
     "Lat": 10.871402,
     "Search": "DhANND NmTT Ql1",
-    "Routes": "08, 10, 150, 164V, 166, 170, 19, 33, 53, 60-1, 60-2, 60-3, 60-7, 61-9, 67, 76, 93, 99"
+    "Routes": "08, 08_TC, 10, 150, 164V, 166, 170, 19, 33, 53, 60-1, 60-2, 60-3, 60-7, 61-9, 67, 76, 93, 99"
   },
   {
     "StopId": 576,
@@ -8989,7 +8989,7 @@
     "Lng": 106.804727,
     "Lat": 10.869172,
     "Search": "TDcntt TDCNtt Ql1",
-    "Routes": "08, 10, 150, 164V, 166, 170, 19, 33, 53, 60-2, 60-3, 60-7, 61-9, 67, 76, 93, 99"
+    "Routes": "08, 08_TC, 10, 150, 164V, 166, 170, 19, 33, 53, 60-2, 60-3, 60-7, 61-9, 67, 76, 93, 99"
   },
   {
     "StopId": 574,
@@ -9005,7 +9005,7 @@
     "Lng": 106.801116,
     "Lat": 10.86605,
     "Search": "KDST 9/29 Ql1",
-    "Routes": "08, 10, 150, 19, 33, 53, 60-1, 60-2, 60-3, 60-7, 61-9, 67, 76, 93, 99"
+    "Routes": "08, 08_TC, 10, 150, 19, 33, 53, 60-1, 60-2, 60-3, 60-7, 61-9, 67, 76, 93, 99"
   },
   {
     "StopId": 4559,
@@ -9021,7 +9021,7 @@
     "Lng": 106.797318,
     "Lat": 10.8639,
     "Search": "CvT2 CvT2 Ql1",
-    "Routes": "08, 150, 67, 76"
+    "Routes": "08, 08_TC, 150, 67, 76"
   },
   {
     "StopId": 3277,
@@ -9037,7 +9037,7 @@
     "Lng": 106.754005,
     "Lat": 10.850327,
     "Search": "CTD 20-21 LVN",
-    "Routes": "08, 57, 93"
+    "Routes": "08, 08_TC, 57, 93"
   },
   {
     "StopId": 575,
@@ -9053,7 +9053,7 @@
     "Lng": 106.751587,
     "Lat": 10.847199,
     "Search": "TCn 569 KVC",
-    "Routes": "08, 57, 93"
+    "Routes": "08, 08_TC, 57, 93"
   },
   {
     "StopId": 578,
@@ -9069,7 +9069,7 @@
     "Lng": 106.749763,
     "Lat": 10.845116,
     "Search": "Vd2 525 KVC",
-    "Routes": "08, 57, 93"
+    "Routes": "08, 08_TC, 57, 93"
   },
   {
     "StopId": 577,
@@ -9085,7 +9085,7 @@
     "Lng": 106.74659,
     "Lat": 10.841721,
     "Search": "Tx27-7 459(d624) KVC",
-    "Routes": "08, 57, 93"
+    "Routes": "08, 08_TC, 57, 93"
   },
   {
     "StopId": 583,
@@ -9101,7 +9101,7 @@
     "Lng": 106.742682,
     "Lat": 10.84077,
     "Search": "NgLD-PVD TcsA PVD",
-    "Routes": "08, 50, 57, 93"
+    "Routes": "08, 08_TC, 50, 57, 93"
   },
   {
     "StopId": 585,
@@ -9117,7 +9117,7 @@
     "Lng": 106.732328,
     "Lat": 10.837284,
     "Search": "CAL NtHB-P PVD",
-    "Routes": "08, 50, 89, 93"
+    "Routes": "08, 08_TC, 50, 89, 93"
   },
   {
     "StopId": 584,
@@ -9133,7 +9133,7 @@
     "Lng": 106.727916,
     "Lat": 10.833634,
     "Search": "CsHC TcsB PVD",
-    "Routes": "08, 50, 89, 93"
+    "Routes": "08, 08_TC, 50, 89, 93"
   },
   {
     "StopId": 587,
@@ -9149,7 +9149,7 @@
     "Lng": 106.720988,
     "Lat": 10.828232,
     "Search": "GTD 218 PVD",
-    "Routes": "08, 50, 93"
+    "Routes": "08, 08_TC, 50, 93"
   },
   {
     "StopId": 586,
@@ -9165,7 +9165,7 @@
     "Lng": 106.715848,
     "Lat": 10.826557,
     "Search": "NtBT 599 PVD",
-    "Routes": "08, 50, 93"
+    "Routes": "08, 08_TC, 50, 93"
   },
   {
     "StopId": 588,
@@ -9181,7 +9181,7 @@
     "Lng": 106.708032,
     "Lat": 10.803177,
     "Search": "NtHX 96 BD",
-    "Routes": "08, 104, 146, 24, 55, 91"
+    "Routes": "08, 08_TC, 104, 146, 24, 55, 91"
   },
   {
     "StopId": 589,
@@ -9197,7 +9197,7 @@
     "Lng": 106.704015,
     "Lat": 10.803483,
     "Search": "CBD 246 BD",
-    "Routes": "08, 104, 146, 24, 55, 91"
+    "Routes": "08, 08_TC, 104, 146, 24, 55, 91"
   },
   {
     "StopId": 590,
@@ -9213,7 +9213,7 @@
     "Lng": 106.701187,
     "Lat": 10.803873,
     "Search": "TAndQBT 288 BD",
-    "Routes": "08, 104, 146, 24, 55, 91"
+    "Routes": "08, 08_TC, 104, 146, 24, 55, 91"
   },
   {
     "StopId": 592,
@@ -9229,7 +9229,7 @@
     "Lng": 106.699374,
     "Lat": 10.803125,
     "Search": "CBC 368 BD",
-    "Routes": "08, 104, 146, 24, 55, 91"
+    "Routes": "08, 08_TC, 104, 146, 24, 55, 91"
   },
   {
     "StopId": 591,
@@ -9245,7 +9245,7 @@
     "Lng": 106.695786,
     "Lat": 10.802819,
     "Search": "UQBT 6-8 PDL",
-    "Routes": "08, 104, 18, 31, 36, 55, 91"
+    "Routes": "08, 08_TC, 104, 18, 31, 36, 55, 91"
   },
   {
     "StopId": 594,
@@ -9261,7 +9261,7 @@
     "Lng": 106.693543,
     "Lat": 10.803119,
     "Search": "BVGD 10 PDL",
-    "Routes": "08, 104, 146, 55, 64"
+    "Routes": "08, 08_TC, 104, 146, 55, 64"
   },
   {
     "StopId": 593,
@@ -9277,7 +9277,7 @@
     "Lng": 106.691741,
     "Lat": 10.803362,
     "Search": "PqBT 14-16 PDL",
-    "Routes": "08, 104, 55, 64"
+    "Routes": "08, 08_TC, 104, 55, 64"
   },
   {
     "StopId": 595,
@@ -9293,7 +9293,7 @@
     "Lng": 106.687637,
     "Lat": 10.803878,
     "Search": "BvPA 36A PDL",
-    "Routes": "08, 104, 55, 64"
+    "Routes": "08, 08_TC, 104, 55, 64"
   },
   {
     "StopId": 596,
@@ -9309,7 +9309,7 @@
     "Lng": 106.686119,
     "Lat": 10.804078,
     "Search": "DhVH 94 PDL",
-    "Routes": "08, 104, 55, 64"
+    "Routes": "08, 08_TC, 104, 55, 64"
   },
   {
     "StopId": 597,
@@ -9325,7 +9325,7 @@
     "Lng": 106.683608,
     "Lat": 10.802529,
     "Search": "NTTQD 124 PDL",
-    "Routes": "08, 104, 55, 64"
+    "Routes": "08, 08_TC, 104, 55, 64"
   },
   {
     "StopId": 598,
@@ -9341,7 +9341,7 @@
     "Lng": 106.681892,
     "Lat": 10.80088,
     "Search": "NtPXL 172 PDL",
-    "Routes": "08, 104, 55, 64"
+    "Routes": "08, 08_TC, 104, 55, 64"
   },
   {
     "StopId": 599,
@@ -9357,7 +9357,7 @@
     "Lng": 106.679236,
     "Lat": 10.799325,
     "Search": "NtPN 24 HVT",
-    "Routes": "08, 104, 64"
+    "Routes": "08, 08_TC, 104, 64"
   },
   {
     "StopId": 7577,
@@ -9373,7 +9373,7 @@
     "Lng": 106.67436,
     "Lat": 10.799721,
     "Search": "CAPN Dd189 HVT",
-    "Routes": "08, 104, 64"
+    "Routes": "08, 08_TC, 104, 64"
   },
   {
     "StopId": 601,
@@ -9389,7 +9389,7 @@
     "Lng": 106.669559,
     "Lat": 10.800153,
     "Search": "StBC 202 HVT",
-    "Routes": "08, 104, 64"
+    "Routes": "08, 08_TC, 104, 64"
   },
   {
     "StopId": 600,
@@ -9405,7 +9405,7 @@
     "Lng": 106.659071,
     "Lat": 10.798725,
     "Search": "VxLCC 288-290 HVT",
-    "Routes": "08, 103, 145, 148, 50, 59, 63-1, 64"
+    "Routes": "08, 08_TC, 103, 145, 148, 50, 59, 63-1, 64"
   },
   {
     "StopId": 602,
@@ -9421,7 +9421,7 @@
     "Lng": 106.657425,
     "Lat": 10.79717,
     "Search": "CaQTB 340H HVT",
-    "Routes": "08, 103, 145, 148, 50, 59, 63-1, 64"
+    "Routes": "08, 08_TC, 103, 145, 148, 50, 59, 63-1, 64"
   },
   {
     "StopId": 604,
@@ -9437,7 +9437,7 @@
     "Lng": 106.655145,
     "Lat": 10.796122,
     "Search": "HCTlTB 20( XD",
-    "Routes": "08, 103, 13, 145, 148, 30, 50, 59, 64, 94"
+    "Routes": "08, 08_TC, 103, 13, 145, 148, 30, 50, 59, 64, 94"
   },
   {
     "StopId": 603,
@@ -9453,7 +9453,7 @@
     "Lng": 106.654066,
     "Lat": 10.796032,
     "Search": "TPNL 149( XH",
-    "Routes": "08, 103, 13, 145, 148, 30, 50, 59, 64, 65, 94"
+    "Routes": "08, 08_TC, 103, 13, 145, 148, 30, 50, 59, 64, 65, 94"
   },
   {
     "StopId": 606,
@@ -9469,7 +9469,7 @@
     "Lng": 106.652184,
     "Lat": 10.794256,
     "Search": "CxD 23 XH",
-    "Routes": "08, 103, 13, 145, 148, 30, 50, 59, 64, 65, 94"
+    "Routes": "08, 08_TC, 103, 13, 145, 148, 30, 50, 59, 64, 65, 94"
   },
   {
     "StopId": 605,
@@ -9485,7 +9485,7 @@
     "Lng": 106.6528,
     "Lat": 10.792122,
     "Search": "BvTN 733-739 LTK",
-    "Routes": "08, 145, 148, 50, 59, 63-1, 94"
+    "Routes": "08, 08_TC, 145, 148, 50, 59, 63-1, 94"
   },
   {
     "StopId": 608,
@@ -9501,7 +9501,7 @@
     "Lng": 106.652806,
     "Lat": 10.788718,
     "Search": "Bvchvphcn 589 LTK",
-    "Routes": "08, 50, 59, 63-1, 94"
+    "Routes": "08, 08_TC, 50, 59, 63-1, 94"
   },
   {
     "StopId": 607,
@@ -9517,7 +9517,7 @@
     "Lng": 106.653584,
     "Lat": 10.786131,
     "Search": "CTB CTB LTK",
-    "Routes": "08, 50, 59, 63-1, 94"
+    "Routes": "08, 08_TC, 50, 59, 63-1, 94"
   },
   {
     "StopId": 610,
@@ -9533,7 +9533,7 @@
     "Lng": 106.654571,
     "Lat": 10.782695,
     "Search": "StNK-CTB 79B(tCTB LTK",
-    "Routes": "08, 50, 59, 63-1, 94"
+    "Routes": "08, 08_TC, 50, 59, 63-1, 94"
   },
   {
     "StopId": 609,
@@ -9549,7 +9549,7 @@
     "Lng": 106.655609,
     "Lat": 10.779233,
     "Search": "TNTB 349( LTK",
-    "Routes": "08, 50, 59, 63-1, 94"
+    "Routes": "08, 08_TC, 50, 59, 63-1, 94"
   },
   {
     "StopId": 612,
@@ -9565,7 +9565,7 @@
     "Lng": 106.656693,
     "Lat": 10.775314,
     "Search": "BDPT 285A LTK",
-    "Routes": "08, 50, 59, 63-1, 94"
+    "Routes": "08, 08_TC, 50, 59, 63-1, 94"
   },
   {
     "StopId": 611,
@@ -9581,7 +9581,7 @@
     "Lng": 106.657829,
     "Lat": 10.771331,
     "Search": "DHBKt 239 LTK",
-    "Routes": "08, 50, 59, 63-1, 94"
+    "Routes": "08, 08_TC, 50, 59, 63-1, 94"
   },
   {
     "StopId": 613,
@@ -9597,7 +9597,7 @@
     "Lng": 106.658295,
     "Lat": 10.769639,
     "Search": "BvTV Dd266 LTK",
-    "Routes": "08, 103, 63-1, 94"
+    "Routes": "08, 08_TC, 103, 63-1, 94"
   },
   {
     "StopId": 614,
@@ -9613,7 +9613,7 @@
     "Lng": 106.659363,
     "Lat": 10.765792,
     "Search": "DLPT(hpl 215C LTK",
-    "Routes": "08, 103, 63-1, 94"
+    "Routes": "08, 08_TC, 103, 63-1, 94"
   },
   {
     "StopId": 615,
@@ -9629,7 +9629,7 @@
     "Lng": 106.660484,
     "Lat": 10.761718,
     "Search": "CNT 151 LTK",
-    "Routes": "08, 63-1, 94"
+    "Routes": "08, 08_TC, 63-1, 94"
   },
   {
     "StopId": 616,
@@ -9645,7 +9645,7 @@
     "Lng": 106.66221,
     "Lat": 10.755702,
     "Search": "BvHV HBvHV LTK",
-    "Routes": "08, 62, 63-1"
+    "Routes": "08, 08_TC, 62, 63-1"
   },
   {
     "StopId": 617,
@@ -9661,7 +9661,7 @@
     "Lng": 106.656926,
     "Lat": 10.74483,
     "Search": "TTV 388 TTV",
-    "Routes": "08, 25, 45, 46, 47, 62"
+    "Routes": "08, 08_TC, 25, 45, 46, 47, 62"
   },
   {
     "StopId": 618,
@@ -9677,7 +9677,7 @@
     "Lng": 106.656142,
     "Lat": 10.738642,
     "Search": "CPQ 94 Ql50",
-    "Routes": "08, 25, 45, 47, 59, 62"
+    "Routes": "08, 08_TC, 25, 45, 47, 59, 62"
   },
   {
     "StopId": 619,
@@ -9693,7 +9693,119 @@
     "Lng": 106.656126,
     "Lat": 10.73646,
     "Search": "BMT 224 Ql50",
-    "Routes": "08, 25, 45, 47, 59, 62"
+    "Routes": "08, 08_TC, 25, 45, 47, 59, 62"
+  },
+  {
+    "StopId": 4112,
+    "Code": "BX90",
+    "Name": "Bến xe buýt Khu B - Đại học Quốc gia TP.HCM",
+    "StopType": "Bến xe",
+    "Zone": "TP. Thủ Đức - KV3",
+    "Ward": null,
+    "AddressNo": "Bến xe buýt Khu B - ĐH Quốc Gia",
+    "Street": "Đường nội bộ Đại học Quốc gia",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.778717,
+    "Lat": 10.884156,
+    "Search": "BxbKB-DhQgT BxbKB-DQG DnbDhQg",
+    "Routes": "08_TC, 170, 53, 60-5, 99"
+  },
+  {
+    "StopId": 7640,
+    "Code": "QTD 269 ",
+    "Name": "KTX Khu B ĐHQG",
+    "StopType": "Nhà chờ",
+    "Zone": "TP. Thủ Đức - KV3",
+    "Ward": "Phường Linh Trung",
+    "AddressNo": "Đối diện Cổng sau KTX Khu B ĐHQG",
+    "Street": "Đường Tiêu biểu số 3",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.778483,
+    "Lat": 10.883487,
+    "Search": "KKBD DdCsKKBD DTbs3",
+    "Routes": "08_TC, 170, 53, 60-5, 99"
+  },
+  {
+    "StopId": 7626,
+    "Code": "QTD 267",
+    "Name": "KTX Khu B ĐHQG",
+    "StopType": "Nhà chờ",
+    "Zone": "TP. Thủ Đức - KV3",
+    "Ward": "Phường Linh Trung",
+    "AddressNo": "KTX Khu B ĐHQG (hướng ra)",
+    "Street": "Trục chính số 7",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.78233,
+    "Lat": 10.881686,
+    "Search": "KKBD KKBD(r Tcs7",
+    "Routes": "08_TC, 53, 60-5, 99"
+  },
+  {
+    "StopId": 9726,
+    "Code": "HCM 0018",
+    "Name": "Trường Đại học Kinh tế - Luật",
+    "StopType": "Ô sơn",
+    "Zone": "TP. Thủ Đức - KV3",
+    "Ward": "Phường Bình Chiểu",
+    "AddressNo": "Đối diện Cổng 3 trường ĐH Kinh tế Luật",
+    "Street": "Lương Văn Can",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.779374,
+    "Lat": 10.872598,
+    "Search": "TDhKt-L DdC3tDKtL LVC",
+    "Routes": "08_TC, 170"
+  },
+  {
+    "StopId": 9725,
+    "Code": "HCM 0017",
+    "Name": "Trường Đại học Kinh tế - Luật",
+    "StopType": "Ô sơn",
+    "Zone": "TP. Thủ Đức - KV3",
+    "Ward": null,
+    "AddressNo": "Cổng 3 trường ĐH Kinh tế Luật",
+    "Street": "Lương Văn Can",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.779846,
+    "Lat": 10.872377,
+    "Search": "TDhKt-L C3tDKtL LVC",
+    "Routes": "08_TC, 170"
+  },
+  {
+    "StopId": 7627,
+    "Code": "QTD 264",
+    "Name": "Viện Tài nguyên môi trường",
+    "StopType": "Nhà chờ",
+    "Zone": "TP. Thủ Đức - KV3",
+    "Ward": "Phường Linh Trung",
+    "AddressNo": "Viện Tài nguyên môi trường",
+    "Street": "Trục chính số 7",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.78719,
+    "Lat": 10.879805,
+    "Search": "VTnmt VTnmt Tcs7",
+    "Routes": "08_TC, 170, 53, 60-5, 99"
+  },
+  {
+    "StopId": 7637,
+    "Code": "QTD 262 ",
+    "Name": "Nhà khách ĐHQG",
+    "StopType": "Nhà chờ",
+    "Zone": "TP. Thủ Đức - KV3",
+    "Ward": "Phường Linh Trung",
+    "AddressNo": "Nhà khách ĐHQG (CX264-266)",
+    "Street": "Nguyễn Du",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.795521,
+    "Lat": 10.880685,
+    "Search": "NkD NkD( ND",
+    "Routes": "08_TC, 170, 53, 60-5, 99"
   },
   {
     "StopId": 621,
@@ -13280,22 +13392,6 @@
     "Routes": "101"
   },
   {
-    "StopId": 7757,
-    "Code": "HBC 466",
-    "Name": "THCS Tân Nhựt",
-    "StopType": "Nhà chờ",
-    "Zone": "Huyện Bình Chánh",
-    "Ward": null,
-    "AddressNo": "Cụm QL thoát nước kênh C",
-    "Street": "Thế Lữ",
-    "SupportDisability": "Có",
-    "Status": "Chưa khai thác",
-    "Lng": 106.566986,
-    "Lat": 10.705577,
-    "Search": "TTN CQtnkC TL",
-    "Routes": "101, 22"
-  },
-  {
     "StopId": 2239,
     "Code": "HBC 446",
     "Name": "Ngã 3 Trường học",
@@ -15100,7 +15196,7 @@
     "Status": "Đang khai thác",
     "Lng": 106.652607,
     "Lat": 10.751259,
-    "Search": "-BxbCLA BXBCLA LQS",
+    "Search": "BxbCL-A BXBCLA LQS",
     "Routes": "103, 16"
   },
   {
@@ -15347,16 +15443,16 @@
     "StopId": 910,
     "Code": "QTB 056",
     "Name": "Ông Tạ",
-    "StopType": "Biển treo",
+    "StopType": "Trụ dừng",
     "Zone": "Quận Tân Bình",
     "Ward": null,
-    "AddressNo": "962",
+    "AddressNo": "1020-1022",
     "Street": "Cách Mạng Tháng Tám",
     "SupportDisability": "",
     "Status": "Đang khai thác",
-    "Lng": 106.659694,
-    "Lat": 10.78963,
-    "Search": "OT 962 CMTT",
+    "Lng": 106.658225,
+    "Lat": 10.790296,
+    "Search": "OT 1020-1022 CMTT",
     "Routes": "103, 13, 30, 65"
   },
   {
@@ -16637,7 +16733,7 @@
     "Lng": 106.722217,
     "Lat": 10.799053,
     "Search": "CvCSG Pt681DBP NHC",
-    "Routes": "104, 158, 159, 160, 161, 30, 55"
+    "Routes": "104, 158, 159, 160, 161, 180, 30, 55"
   },
   {
     "StopId": 6940,
@@ -17197,7 +17293,7 @@
     "Lng": 106.77299,
     "Lat": 10.84828,
     "Search": "NtTD DdC VNG",
-    "Routes": "10, 150, 52, 53, 60-3, 67"
+    "Routes": "10, 150, 180, 52, 53, 60-3, 67"
   },
   {
     "StopId": 8094,
@@ -17213,7 +17309,7 @@
     "Lng": 106.771394,
     "Lat": 10.845622,
     "Search": "GmTD CgmTD XLHN",
-    "Routes": "10, 150, 52, 53, 60-3, 67"
+    "Routes": "10, 150, 180, 52, 53, 60-3, 67"
   },
   {
     "StopId": 1111,
@@ -17229,7 +17325,7 @@
     "Lng": 106.77063,
     "Lat": 10.844297,
     "Search": "CcSG DdSG VNG",
-    "Routes": "10, 150, 52, 53, 60-3, 67"
+    "Routes": "10, 150, 180, 52, 53, 60-3, 67"
   },
   {
     "StopId": 1112,
@@ -17245,7 +17341,7 @@
     "Lng": 106.768607,
     "Lat": 10.840745,
     "Search": "BQlDsdt 126 VNG",
-    "Routes": "10, 150, 52, 53, 60-3, 67"
+    "Routes": "10, 150, 180, 52, 53, 60-3, 67"
   },
   {
     "StopId": 1873,
@@ -17949,7 +18045,7 @@
     "Lng": 106.76666,
     "Lat": 10.836162,
     "Search": "N4BT K71 VNG",
-    "Routes": "10, 150, 52, 53, 60-3, 67"
+    "Routes": "10, 150, 180, 52, 53, 60-3, 67"
   },
   {
     "StopId": 1030,
@@ -17965,7 +18061,7 @@
     "Lng": 106.769074,
     "Lat": 10.840466,
     "Search": "BQlDsdt 1B VNG",
-    "Routes": "10, 150, 52, 53, 60-3, 67"
+    "Routes": "10, 150, 180, 52, 53, 60-3, 67"
   },
   {
     "StopId": 1026,
@@ -17981,7 +18077,7 @@
     "Lng": 106.77079,
     "Lat": 10.843834,
     "Search": "CcSG S VNG",
-    "Routes": "10, 150, 52, 53, 60-3, 67"
+    "Routes": "10, 150, 180, 52, 53, 60-3, 67"
   },
   {
     "StopId": 8095,
@@ -27485,7 +27581,7 @@
     "Lng": 106.794421,
     "Lat": 10.845566,
     "Search": "DHG Tttttv LVV",
-    "Routes": "141, 162, 56, 99"
+    "Routes": "141, 162, 180, 56, 99"
   },
   {
     "StopId": 1535,
@@ -27501,7 +27597,7 @@
     "Lng": 106.790349,
     "Lat": 10.844607,
     "Search": "BvLVV 99 LVV",
-    "Routes": "141, 162, 56, 99"
+    "Routes": "141, 162, 180, 56, 99"
   },
   {
     "StopId": 1532,
@@ -27517,7 +27613,7 @@
     "Lng": 106.788209,
     "Lat": 10.844923,
     "Search": "CTNP DdcTNP LVV",
-    "Routes": "141, 162, 56, 99"
+    "Routes": "141, 162, 180, 56, 99"
   },
   {
     "StopId": 1537,
@@ -27533,7 +27629,7 @@
     "Lng": 106.784084,
     "Lat": 10.84427,
     "Search": "CHP 241-243( LVV",
-    "Routes": "141, 162, 56, 76, 99"
+    "Routes": "141, 162, 180, 56, 76, 99"
   },
   {
     "StopId": 1534,
@@ -27549,7 +27645,7 @@
     "Lng": 106.781723,
     "Lat": 10.844381,
     "Search": "NtDPP 189-191 LVV",
-    "Routes": "141, 162, 56, 76, 99"
+    "Routes": "141, 162, 180, 56, 76, 99"
   },
   {
     "StopId": 1536,
@@ -27565,7 +27661,7 @@
     "Lng": 106.780377,
     "Lat": 10.845176,
     "Search": "CvHTT Dd140-142 LVV",
-    "Routes": "141, 162, 56, 57, 76"
+    "Routes": "141, 162, 180, 56, 57, 76"
   },
   {
     "StopId": 1539,
@@ -27581,7 +27677,7 @@
     "Lng": 106.777512,
     "Lat": 10.846799,
     "Search": "Bv7C-TruongQy2 91-93-95 LVV",
-    "Routes": "141, 162, 56, 57, 76"
+    "Routes": "141, 162, 180, 56, 57, 76"
   },
   {
     "StopId": 1538,
@@ -27597,7 +27693,7 @@
     "Lng": 106.775045,
     "Lat": 10.848411,
     "Search": "StC 21( LVV",
-    "Routes": "141, 162, 56, 57, 76"
+    "Routes": "141, 162, 180, 56, 57, 76"
   },
   {
     "StopId": 1540,
@@ -28285,7 +28381,7 @@
     "Lng": 106.775032,
     "Lat": 10.848192,
     "Search": "StC 4-6 LVV",
-    "Routes": "141, 162, 56, 57, 76"
+    "Routes": "141, 162, 180, 56, 57, 76"
   },
   {
     "StopId": 1504,
@@ -28301,7 +28397,7 @@
     "Lng": 106.778124,
     "Lat": 10.846262,
     "Search": "Bv7C-TruongQy2 50 LVV",
-    "Routes": "141, 162, 56, 57, 76"
+    "Routes": "141, 162, 180, 56, 57, 76"
   },
   {
     "StopId": 1495,
@@ -28317,7 +28413,7 @@
     "Lng": 106.780563,
     "Lat": 10.84486,
     "Search": "CvHTT 142-144 LVV",
-    "Routes": "141, 162, 56, 57, 76"
+    "Routes": "141, 162, 180, 56, 57, 76"
   },
   {
     "StopId": 1497,
@@ -28333,7 +28429,7 @@
     "Lng": 106.782028,
     "Lat": 10.844114,
     "Search": "NtDPP 192-194( LVV",
-    "Routes": "141, 162, 56, 76, 99"
+    "Routes": "141, 162, 180, 56, 76, 99"
   },
   {
     "StopId": 1499,
@@ -28349,7 +28445,7 @@
     "Lng": 106.784261,
     "Lat": 10.844128,
     "Search": "CHP (284 LVV",
-    "Routes": "141, 162, 56, 76, 99"
+    "Routes": "141, 162, 180, 56, 76, 99"
   },
   {
     "StopId": 1506,
@@ -28365,7 +28461,7 @@
     "Lng": 106.787973,
     "Lat": 10.844813,
     "Search": "CTNP 424A-424B LVV",
-    "Routes": "141, 162, 56, 99"
+    "Routes": "141, 162, 180, 56, 99"
   },
   {
     "StopId": 1501,
@@ -28381,7 +28477,7 @@
     "Lng": 106.790977,
     "Lat": 10.8446,
     "Search": "BvLVV DdBvLVV LVV",
-    "Routes": "141, 162, 56, 99"
+    "Routes": "141, 162, 180, 56, 99"
   },
   {
     "StopId": 1508,
@@ -28397,7 +28493,7 @@
     "Lng": 106.793922,
     "Lat": 10.845276,
     "Search": "DHG Dd451 LVV",
-    "Routes": "141, 162, 56, 99"
+    "Routes": "141, 162, 180, 56, 99"
   },
   {
     "StopId": 8101,
@@ -28413,7 +28509,7 @@
     "Lng": 106.796429,
     "Lat": 10.845888,
     "Search": "KtxTDhCnKtT Cx132-134 LVV",
-    "Routes": "141, 162, 56, 99"
+    "Routes": "141, 162, 180, 56, 99"
   },
   {
     "StopId": 1505,
@@ -29148,7 +29244,7 @@
     "Status": "Đang khai thác",
     "Lng": 106.638579,
     "Lat": 10.87814,
-    "Search": "NVhLd12Q DdnvhldQ12 NAT",
+    "Search": "NVhLdQ12 DdnvhldQ12 NAT",
     "Routes": "145, 18"
   },
   {
@@ -36637,7 +36733,7 @@
     "Lng": 106.722695,
     "Lat": 10.796013,
     "Search": "TnL81 CvpTC TTK",
-    "Routes": "160"
+    "Routes": "160, 180"
   },
   {
     "StopId": 8139,
@@ -36653,7 +36749,7 @@
     "Lng": 106.723333,
     "Lat": 10.791713,
     "Search": "TNP3 DdtnP3 TTK",
-    "Routes": "160"
+    "Routes": "160, 180"
   },
   {
     "StopId": 7858,
@@ -39660,7 +39756,7 @@
     "Status": "Đang khai thác",
     "Lng": 106.780604,
     "Lat": 10.859779,
-    "Search": "LVST PtSTLV( LT",
+    "Search": "STLV PtSTLV( LT",
     "Routes": "167V"
   },
   {
@@ -42096,22 +42192,6 @@
     "Routes": "170, 53, 60-5, 99"
   },
   {
-    "StopId": 9726,
-    "Code": "HCM 0018",
-    "Name": "Trường Đại học Kinh tế - Luật",
-    "StopType": "Ô sơn",
-    "Zone": "TP. Thủ Đức - KV3",
-    "Ward": "Phường Bình Chiểu",
-    "AddressNo": "Đối diện Cổng 3 trường ĐH Kinh tế Luật",
-    "Street": "Lương Văn Can",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.779374,
-    "Lat": 10.872598,
-    "Search": "TDhKt-L DdC3tDKtL LVC",
-    "Routes": "170"
-  },
-  {
     "StopId": 7639,
     "Code": "QTD 268",
     "Name": "KTX Khu B ĐHQG",
@@ -42125,86 +42205,6 @@
     "Lng": 106.779116,
     "Lat": 10.883203,
     "Search": "KKBD CsKKBD DTbs3",
-    "Routes": "170, 53, 60-5, 99"
-  },
-  {
-    "StopId": 4112,
-    "Code": "BX90",
-    "Name": "Bến xe buýt Khu B - Đại học Quốc gia TP.HCM",
-    "StopType": "Bến xe",
-    "Zone": "TP. Thủ Đức - KV3",
-    "Ward": null,
-    "AddressNo": "Bến xe buýt Khu B - ĐH Quốc Gia",
-    "Street": "Đường nội bộ Đại học Quốc gia",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.778717,
-    "Lat": 10.884156,
-    "Search": "BxbKB-DhQgT BxbKB-DQG DnbDhQg",
-    "Routes": "170, 53, 60-5, 99"
-  },
-  {
-    "StopId": 7640,
-    "Code": "QTD 269 ",
-    "Name": "KTX Khu B ĐHQG",
-    "StopType": "Nhà chờ",
-    "Zone": "TP. Thủ Đức - KV3",
-    "Ward": "Phường Linh Trung",
-    "AddressNo": "Đối diện Cổng sau KTX Khu B ĐHQG",
-    "Street": "Đường Tiêu biểu số 3",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.778483,
-    "Lat": 10.883487,
-    "Search": "KKBD DdCsKKBD DTbs3",
-    "Routes": "170, 53, 60-5, 99"
-  },
-  {
-    "StopId": 9725,
-    "Code": "HCM 0017",
-    "Name": "Trường Đại học Kinh tế - Luật",
-    "StopType": "Ô sơn",
-    "Zone": "TP. Thủ Đức - KV3",
-    "Ward": null,
-    "AddressNo": "Cổng 3 trường ĐH Kinh tế Luật",
-    "Street": "Lương Văn Can",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.779846,
-    "Lat": 10.872377,
-    "Search": "TDhKt-L C3tDKtL LVC",
-    "Routes": "170"
-  },
-  {
-    "StopId": 7627,
-    "Code": "QTD 264",
-    "Name": "Viện Tài nguyên môi trường",
-    "StopType": "Nhà chờ",
-    "Zone": "TP. Thủ Đức - KV3",
-    "Ward": "Phường Linh Trung",
-    "AddressNo": "Viện Tài nguyên môi trường",
-    "Street": "Trục chính số 7",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.78719,
-    "Lat": 10.879805,
-    "Search": "VTnmt VTnmt Tcs7",
-    "Routes": "170, 53, 60-5, 99"
-  },
-  {
-    "StopId": 7637,
-    "Code": "QTD 262 ",
-    "Name": "Nhà khách ĐHQG",
-    "StopType": "Nhà chờ",
-    "Zone": "TP. Thủ Đức - KV3",
-    "Ward": "Phường Linh Trung",
-    "AddressNo": "Nhà khách ĐHQG (CX264-266)",
-    "Street": "Nguyễn Du",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.795521,
-    "Lat": 10.880685,
-    "Search": "NkD NkD( ND",
     "Routes": "170, 53, 60-5, 99"
   },
   {
@@ -45486,6 +45486,662 @@
     "Lat": 8.683907,
     "Search": "PKthtdtdkCD PKthtdtdkCD NH",
     "Routes": "173"
+  },
+  {
+    "StopId": 10067,
+    "Code": "BX100",
+    "Name": "Công viên Ánh Sáng",
+    "StopType": "Bến xe",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Bình",
+    "AddressNo": "Công viên Ánh Sáng",
+    "Street": "Đường M1",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.845784,
+    "Lat": 10.839367,
+    "Search": "CvAS CvAS DM",
+    "Routes": "179"
+  },
+  {
+    "StopId": 7785,
+    "Code": "Q9 298",
+    "Name": "Tòa nhà S5.03",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Tòa nhà S5.03",
+    "Street": "Nội khu Vinhomes",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.837897,
+    "Lat": 10.840912,
+    "Search": "TnS TnS NkV",
+    "Routes": "179, D4"
+  },
+  {
+    "StopId": 7791,
+    "Code": "Q9 303",
+    "Name": "Tòa nhà S2.05",
+    "StopType": "Nhà chờ",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Đối diện Tòa nhà S2.05",
+    "Street": "Nội khu Vinhomes",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.833024,
+    "Lat": 10.837446,
+    "Search": "TnS DdTnS NkV",
+    "Routes": "179, 180, D4"
+  },
+  {
+    "StopId": 7792,
+    "Code": "Q9 301",
+    "Name": "Tòa nhà S3.03",
+    "StopType": "Nhà chờ",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Đối diện Tòa nhà S3.03",
+    "Street": "Nội khu Vinhomes",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.834957,
+    "Lat": 10.838155,
+    "Search": "TnS DdTnS NkV",
+    "Routes": "179, 180, D4"
+  },
+  {
+    "StopId": 7696,
+    "Code": "BX 34",
+    "Name": "Vinhomes Grandpark",
+    "StopType": "Bến xe",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "KDC Vinhome Grandpark Quận 9",
+    "Street": "Nội khu Vinhomes",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.842998,
+    "Lat": 10.846214,
+    "Search": "VG KVGQ9 NkV",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 7786,
+    "Code": "Q9 300",
+    "Name": "Tòa nhà S3.03",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Tòa nhà S3.03",
+    "Street": "Nội khu Vinhomes",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.835002,
+    "Lat": 10.838327,
+    "Search": "TnS TnS NkV",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 7787,
+    "Code": "Q9 302",
+    "Name": "Tòa nhà S2.05",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Tòa nhà S2.05",
+    "Street": "Nội khu Vinhomes",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.833042,
+    "Lat": 10.837612,
+    "Search": "TnS TnS NkV",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 7788,
+    "Code": "Q9 304",
+    "Name": "Tòa nhà S2.01",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Tòa nhà S2.01",
+    "Street": "Nội khu Vinhomes",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.832135,
+    "Lat": 10.837241,
+    "Search": "TnS TnS NkV",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 7789,
+    "Code": "Q9 306",
+    "Name": "Tòa nhà S1.01",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Toà nhà S1.01",
+    "Street": "Nội khu Vinhomes",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.830621,
+    "Lat": 10.836804,
+    "Search": "TnS TnS NkV",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 3372,
+    "Code": "Q9T175",
+    "Name": "Chợ Gò Công",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "445 - 447",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.827632,
+    "Lat": 10.842052,
+    "Search": "CGC 445-447 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 3373,
+    "Code": "Q9 188",
+    "Name": "UBND phường Long Bình",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "367A",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.825433,
+    "Lat": 10.841209,
+    "Search": "UpLB 367A NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 4259,
+    "Code": "Q9 065",
+    "Name": "Cao đẳng Cảnh sát nhân dân 2",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": null,
+    "AddressNo": "225-221",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.820444,
+    "Lat": 10.842463,
+    "Search": "CdCsnd2 225-221 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 3375,
+    "Code": "Q9T177",
+    "Name": "Trường Nguyễn Huệ",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "161-163 (159)",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.818352,
+    "Lat": 10.844096,
+    "Search": "TNH 161-163( NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 4132,
+    "Code": "Q9 264",
+    "Name": "Nhà thờ Thánh Cẩm",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "69 - 71",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.816571,
+    "Lat": 10.846646,
+    "Search": "NtTC 69-71 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 4131,
+    "Code": "Q9T179",
+    "Name": "Ngã ba Mỹ Thành (đường Nguyễn Văn Tăng)",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "9 - 11",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.814682,
+    "Lat": 10.849007,
+    "Search": "NbMT(NVT 9-11 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 3374,
+    "Code": "Q9 100",
+    "Name": "Ngã ba Mỹ Thành (đường Lê Văn Việt)",
+    "StopType": "Ô sơn",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "687-689",
+    "Street": "Lê Văn Việt",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.812958,
+    "Lat": 10.850071,
+    "Search": "NbMT(LVV 687-689 LVV",
+    "Routes": "180, 56, 99, D4"
+  },
+  {
+    "StopId": 3377,
+    "Code": "Q9 101",
+    "Name": "Công Ty FILIED",
+    "StopType": "Ô sơn",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Đối diện công ty Filied",
+    "Street": "Lê Văn Việt",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.807355,
+    "Lat": 10.848738,
+    "Search": "CTF DdctF LVV",
+    "Routes": "180, 56, 99"
+  },
+  {
+    "StopId": 1533,
+    "Code": "Q9 102",
+    "Name": "Chung cư C7",
+    "StopType": "Nhà chờ",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Tăng Nhơn Phú A",
+    "AddressNo": "Chung cư C7 (Đối diện 504)",
+    "Street": "Lê Văn Việt",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.800048,
+    "Lat": 10.846957,
+    "Search": "CcC CcC(d504) LVV",
+    "Routes": "180, 56, 99"
+  },
+  {
+    "StopId": 2701,
+    "Code": "QBTH 134",
+    "Name": "Công viên Cầu Sài Gòn",
+    "StopType": "Nhà chờ",
+    "Zone": "Quận Bình Thạnh",
+    "Ward": null,
+    "AddressNo": "Đối diện 683-685",
+    "Street": "Điện Biên Phủ",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.722715,
+    "Lat": 10.798941,
+    "Search": "CvCSG Dd683-685 DBP",
+    "Routes": "180, 53, 56"
+  },
+  {
+    "StopId": 2699,
+    "Code": "QBTH 075",
+    "Name": "Cây Xăng Hoàng Nguyên",
+    "StopType": "Trụ dừng",
+    "Zone": "Quận Bình Thạnh",
+    "Ward": null,
+    "AddressNo": "113",
+    "Street": "Nguyễn Hữu Cảnh",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.718094,
+    "Lat": 10.795267,
+    "Search": "CXHN 113 NHC",
+    "Routes": "180, 30, 53, 56"
+  },
+  {
+    "StopId": 2702,
+    "Code": "QBTH 076",
+    "Name": "Hồ Bơi Hải Quân",
+    "StopType": "Trụ dừng",
+    "Zone": "Quận Bình Thạnh",
+    "Ward": null,
+    "AddressNo": "22",
+    "Street": "Nguyễn Hữu Cảnh",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.710522,
+    "Lat": 10.789477,
+    "Search": "HBHQ 22 NHC",
+    "Routes": "180, 30, 44, 53, 56, 88"
+  },
+  {
+    "StopId": 2703,
+    "Code": "Q1 034",
+    "Name": "Mầm non Hoa Lư",
+    "StopType": "Nhà chờ",
+    "Zone": "Quận 1",
+    "Ward": null,
+    "AddressNo": "1",
+    "Street": "Nguyễn Hữu Cảnh",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.707555,
+    "Lat": 10.784149,
+    "Search": "MnHL 1 NHC",
+    "Routes": "180, 30, 44, 53, 56, 88"
+  },
+  {
+    "StopId": 4262,
+    "Code": "Q1 037",
+    "Name": "Trung tâm Vincom",
+    "StopType": "Nhà chờ",
+    "Zone": "Quận 1",
+    "Ward": null,
+    "AddressNo": "70",
+    "Street": "Lê Thánh Tôn",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.702175,
+    "Lat": 10.777683,
+    "Search": "TtV 70 LTT",
+    "Routes": "180, 44"
+  },
+  {
+    "StopId": 4224,
+    "Code": "Q1 172",
+    "Name": "Trung tâm VinCom",
+    "StopType": "Ô sơn",
+    "Zone": "Quận 1",
+    "Ward": "Phường Bến Nghé",
+    "AddressNo": "171",
+    "Street": "Đồng Khởi",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.702191,
+    "Lat": 10.776782,
+    "Search": "TtV 171 DK",
+    "Routes": "180, DL02"
+  },
+  {
+    "StopId": 7078,
+    "Code": "Q1 174",
+    "Name": "Nhà hát Thành phố",
+    "StopType": "Ô sơn",
+    "Zone": "Quận 1",
+    "Ward": "Phường Bến Nghé",
+    "AddressNo": "127-129",
+    "Street": "Đồng Khởi",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.703709,
+    "Lat": 10.775407,
+    "Search": "NhTp 127-129 DK",
+    "Routes": "180, DL02, DL05"
+  },
+  {
+    "StopId": 2572,
+    "Code": "Q1 032",
+    "Name": "Nguyễn Hữu Cảnh",
+    "StopType": "Nhà chờ",
+    "Zone": "Quận 1",
+    "Ward": null,
+    "AddressNo": "Cây xanh số 15",
+    "Street": "Nguyễn Hữu Cảnh",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.707222,
+    "Lat": 10.78328,
+    "Search": "NHC Cxs15 NHC",
+    "Routes": "180, 44, 53, 56, 88"
+  },
+  {
+    "StopId": 2573,
+    "Code": "Q1 033",
+    "Name": "Mầm non Hoa Lư",
+    "StopType": "Trụ dừng",
+    "Zone": "Quận 1",
+    "Ward": null,
+    "AddressNo": "2A",
+    "Street": "Nguyễn Hữu Cảnh",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.708628,
+    "Lat": 10.785077,
+    "Search": "MnHL 2A NHC",
+    "Routes": "180, 30, 44, 53, 56, 88"
+  },
+  {
+    "StopId": 2579,
+    "Code": "QBTH 077",
+    "Name": "Hồ Bơi Hải Quân",
+    "StopType": "Trụ dừng",
+    "Zone": "Quận Bình Thạnh",
+    "Ward": null,
+    "AddressNo": "18",
+    "Street": "Nguyễn Hữu Cảnh",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.710779,
+    "Lat": 10.789113,
+    "Search": "HBHQ 18 NHC",
+    "Routes": "180, 30, 44, 53, 56, 88"
+  },
+  {
+    "StopId": 2574,
+    "Code": "QBTH 078",
+    "Name": "Chung cư Manor",
+    "StopType": "Nhà chờ",
+    "Zone": "Quận Bình Thạnh",
+    "Ward": null,
+    "AddressNo": "176E",
+    "Street": "Nguyễn Hữu Cảnh",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.718445,
+    "Lat": 10.793266,
+    "Search": "CcM 176E NHC",
+    "Routes": "180, 30, 53, 56"
+  },
+  {
+    "StopId": 2581,
+    "Code": "QBTH 079",
+    "Name": "Tân Cảng",
+    "StopType": "Trụ dừng",
+    "Zone": "Quận Bình Thạnh",
+    "Ward": null,
+    "AddressNo": "220",
+    "Street": "Nguyễn Hữu Cảnh",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.719909,
+    "Lat": 10.796601,
+    "Search": "TC 220 NHC",
+    "Routes": "180, 30, 53, 56"
+  },
+  {
+    "StopId": 8097,
+    "Code": "TPTĐ 227",
+    "Name": "Ga metro Thủ Đức",
+    "StopType": "Nhà chờ",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Hiệp Phú",
+    "AddressNo": "Công ty TNHH Thương mại Nghĩa Trí (01 Xa Lộ Hà Nội)",
+    "Street": "Song Hành phải Xa Lộ Hà Nội",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.772448,
+    "Lat": 10.846041,
+    "Search": "GmTD CtTTmNT(XLHN SHpXLHN",
+    "Routes": "180"
+  },
+  {
+    "StopId": 1503,
+    "Code": "Q9 097",
+    "Name": "Chung cư C7",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Tăng Nhơn Phú A",
+    "AddressNo": "Kế 482 (498)",
+    "Street": "Lê Văn Việt",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.799807,
+    "Lat": 10.846736,
+    "Search": "CcC K482( LVV",
+    "Routes": "180, 56, 99"
+  },
+  {
+    "StopId": 3390,
+    "Code": "Q9 098",
+    "Name": "Công Ty FILIED",
+    "StopType": "Ô sơn",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Công ty Filied",
+    "Street": "Lê Văn Việt",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.807773,
+    "Lat": 10.848606,
+    "Search": "CTF CtF LVV",
+    "Routes": "180, 56, 99"
+  },
+  {
+    "StopId": 3395,
+    "Code": "Q9 099",
+    "Name": "Ngã ba Mỹ Thành (đường Lê Văn Việt)",
+    "StopType": "Ô sơn",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "582 (570A)",
+    "Street": "Lê Văn Việt",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.812826,
+    "Lat": 10.849865,
+    "Search": "NbMT(LVV 582( LVV",
+    "Routes": "180, 56, 99, D4"
+  },
+  {
+    "StopId": 3371,
+    "Code": "Q9 191",
+    "Name": "Ngã ba Mỹ Thành (đường Nguyễn Văn Tăng)",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "28 - 30",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.814302,
+    "Lat": 10.849249,
+    "Search": "NbMT(NVT 28-30 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 7580,
+    "Code": "Q9 191A",
+    "Name": "Nhà thờ Thánh Cẩm",
+    "StopType": "Biển treo",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "110-112",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.816463,
+    "Lat": 10.846404,
+    "Search": "NtTC 110-112 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 3392,
+    "Code": "Q9 192",
+    "Name": "Trường THPT Nguyễn Huệ",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "174",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.817963,
+    "Lat": 10.844434,
+    "Search": "TTNH 174 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 4258,
+    "Code": "Q9 064",
+    "Name": "Cao đẳng Cảnh sát nhân dân 2",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": null,
+    "AddressNo": "Trung tâm sát hạch lái xe - CĐ CSND 2",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.819865,
+    "Lat": 10.842589,
+    "Search": "CdCsnd2 Ttshlx-CC2 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 3396,
+    "Code": "Q9 193",
+    "Name": "UBND phường Long Bình",
+    "StopType": "Trụ dừng",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "354",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.824231,
+    "Lat": 10.841062,
+    "Search": "UpLB 354 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 3393,
+    "Code": "Q9 194",
+    "Name": "Chợ Gò Công",
+    "StopType": "Ô sơn",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": null,
+    "AddressNo": "462 - 464",
+    "Street": "Nguyễn Văn Tăng",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.828067,
+    "Lat": 10.842184,
+    "Search": "CGC 462-464 NVT",
+    "Routes": "180, D4"
+  },
+  {
+    "StopId": 7790,
+    "Code": "Q9 305",
+    "Name": "Tòa nhà S1.01",
+    "StopType": "Nhà chờ",
+    "Zone": "TP. Thủ Đức - KV2",
+    "Ward": "Phường Long Thạnh Mỹ",
+    "AddressNo": "Đối diện Tòa nhà S1.01",
+    "Street": "Nội khu Vinhomes",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.830558,
+    "Lat": 10.836589,
+    "Search": "TnS DdTnS NkV",
+    "Routes": "180, D4"
   },
   {
     "StopId": 7264,
@@ -53184,118 +53840,6 @@
     "Routes": "30, 36, 52"
   },
   {
-    "StopId": 2573,
-    "Code": "Q1 033",
-    "Name": "Mầm non Hoa Lư",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận 1",
-    "Ward": null,
-    "AddressNo": "2A",
-    "Street": "Nguyễn Hữu Cảnh",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.708628,
-    "Lat": 10.785077,
-    "Search": "MnHL 2A NHC",
-    "Routes": "30, 44, 53, 56, 88"
-  },
-  {
-    "StopId": 2579,
-    "Code": "QBTH 077",
-    "Name": "Hồ Bơi Hải Quân",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận Bình Thạnh",
-    "Ward": null,
-    "AddressNo": "18",
-    "Street": "Nguyễn Hữu Cảnh",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.710779,
-    "Lat": 10.789113,
-    "Search": "HBHQ 18 NHC",
-    "Routes": "30, 44, 53, 56, 88"
-  },
-  {
-    "StopId": 2574,
-    "Code": "QBTH 078",
-    "Name": "Chung cư Manor",
-    "StopType": "Nhà chờ",
-    "Zone": "Quận Bình Thạnh",
-    "Ward": null,
-    "AddressNo": "176E",
-    "Street": "Nguyễn Hữu Cảnh",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.718445,
-    "Lat": 10.793266,
-    "Search": "CcM 176E NHC",
-    "Routes": "30, 53, 56"
-  },
-  {
-    "StopId": 2581,
-    "Code": "QBTH 079",
-    "Name": "Tân Cảng",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận Bình Thạnh",
-    "Ward": null,
-    "AddressNo": "220",
-    "Street": "Nguyễn Hữu Cảnh",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.719909,
-    "Lat": 10.796601,
-    "Search": "TC 220 NHC",
-    "Routes": "30, 53, 56"
-  },
-  {
-    "StopId": 2699,
-    "Code": "QBTH 075",
-    "Name": "Cây Xăng Hoàng Nguyên",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận Bình Thạnh",
-    "Ward": null,
-    "AddressNo": "113",
-    "Street": "Nguyễn Hữu Cảnh",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.718094,
-    "Lat": 10.795267,
-    "Search": "CXHN 113 NHC",
-    "Routes": "30, 53, 56"
-  },
-  {
-    "StopId": 2702,
-    "Code": "QBTH 076",
-    "Name": "Hồ Bơi Hải Quân",
-    "StopType": "Trụ dừng",
-    "Zone": "Quận Bình Thạnh",
-    "Ward": null,
-    "AddressNo": "22",
-    "Street": "Nguyễn Hữu Cảnh",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.710522,
-    "Lat": 10.789477,
-    "Search": "HBHQ 22 NHC",
-    "Routes": "30, 44, 53, 56, 88"
-  },
-  {
-    "StopId": 2703,
-    "Code": "Q1 034",
-    "Name": "Mầm non Hoa Lư",
-    "StopType": "Nhà chờ",
-    "Zone": "Quận 1",
-    "Ward": null,
-    "AddressNo": "1",
-    "Street": "Nguyễn Hữu Cảnh",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.707555,
-    "Lat": 10.784149,
-    "Search": "MnHL 1 NHC",
-    "Routes": "30, 44, 53, 56, 88"
-  },
-  {
     "StopId": 7721,
     "Code": "H07_02",
     "Name": "Nhà Văn Hóa Thanh Niên",
@@ -59664,22 +60208,6 @@
     "Routes": "44"
   },
   {
-    "StopId": 2572,
-    "Code": "Q1 032",
-    "Name": "Nguyễn Hữu Cảnh",
-    "StopType": "Nhà chờ",
-    "Zone": "Quận 1",
-    "Ward": null,
-    "AddressNo": "Cây xanh số 15",
-    "Street": "Nguyễn Hữu Cảnh",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.707222,
-    "Lat": 10.78328,
-    "Search": "NHC Cxs15 NHC",
-    "Routes": "44, 53, 56, 88"
-  },
-  {
     "StopId": 2955,
     "Code": "QBTH 080",
     "Name": "Cầu vượt Thủ Thiêm",
@@ -60189,22 +60717,6 @@
     "Lng": 106.703328,
     "Lat": 10.779001,
     "Search": "STC 32 LTT",
-    "Routes": "44"
-  },
-  {
-    "StopId": 4262,
-    "Code": "Q1 037",
-    "Name": "Trung tâm Vincom",
-    "StopType": "Nhà chờ",
-    "Zone": "Quận 1",
-    "Ward": null,
-    "AddressNo": "70",
-    "Street": "Lê Thánh Tôn",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.702175,
-    "Lat": 10.777683,
-    "Search": "TtV 70 LTT",
     "Routes": "44"
   },
   {
@@ -63760,22 +64272,6 @@
     "Routes": "53, 60-5, 99"
   },
   {
-    "StopId": 7626,
-    "Code": "QTD 267",
-    "Name": "KTX Khu B ĐHQG",
-    "StopType": "Nhà chờ",
-    "Zone": "TP. Thủ Đức - KV3",
-    "Ward": "Phường Linh Trung",
-    "AddressNo": "KTX Khu B ĐHQG (hướng ra)",
-    "Street": "Trục chính số 7",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.78233,
-    "Lat": 10.881686,
-    "Search": "KKBD KKBD(r Tcs7",
-    "Routes": "53, 60-5, 99"
-  },
-  {
     "StopId": 3387,
     "Code": "QTD 135",
     "Name": "UBND phường Linh Trung",
@@ -63808,22 +64304,6 @@
     "Routes": "53"
   },
   {
-    "StopId": 2701,
-    "Code": "QBTH 134",
-    "Name": "Công viên Cầu Sài Gòn",
-    "StopType": "Nhà chờ",
-    "Zone": "Quận Bình Thạnh",
-    "Ward": null,
-    "AddressNo": "Đối diện 683-685",
-    "Street": "Điện Biên Phủ",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.722715,
-    "Lat": 10.798941,
-    "Search": "CvCSG Dd683-685 DBP",
-    "Routes": "53, 56"
-  },
-  {
     "StopId": 3184,
     "Code": "BX36",
     "Name": "Bến xe buýt Công viên phần mềm Quang Trung",
@@ -63838,54 +64318,6 @@
     "Lat": 10.852458,
     "Search": "BxbCvpmQT BXCPQT Ql1A",
     "Routes": "55"
-  },
-  {
-    "StopId": 1503,
-    "Code": "Q9 097",
-    "Name": "Chung cư C7",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Tăng Nhơn Phú A",
-    "AddressNo": "Kế 482 (498)",
-    "Street": "Lê Văn Việt",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.799807,
-    "Lat": 10.846736,
-    "Search": "CcC K482( LVV",
-    "Routes": "56, 99"
-  },
-  {
-    "StopId": 3390,
-    "Code": "Q9 098",
-    "Name": "Công Ty FILIED",
-    "StopType": "Ô sơn",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Công ty Filied",
-    "Street": "Lê Văn Việt",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.807773,
-    "Lat": 10.848606,
-    "Search": "CTF CtF LVV",
-    "Routes": "56, 99"
-  },
-  {
-    "StopId": 3395,
-    "Code": "Q9 099",
-    "Name": "Ngã ba Mỹ Thành (đường Lê Văn Việt)",
-    "StopType": "Ô sơn",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "582 (570A)",
-    "Street": "Lê Văn Việt",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.812826,
-    "Lat": 10.849865,
-    "Search": "NbMT(LVV 582( LVV",
-    "Routes": "56, 99, D4"
   },
   {
     "StopId": 4099,
@@ -63981,54 +64413,6 @@
     "Lng": 106.813636,
     "Lat": 10.850687,
     "Search": "N3MT(HHN 21 HHN",
-    "Routes": "56, 99"
-  },
-  {
-    "StopId": 3374,
-    "Code": "Q9 100",
-    "Name": "Ngã ba Mỹ Thành (đường Lê Văn Việt)",
-    "StopType": "Ô sơn",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "687-689",
-    "Street": "Lê Văn Việt",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.812958,
-    "Lat": 10.850071,
-    "Search": "NbMT(LVV 687-689 LVV",
-    "Routes": "56, 99, D4"
-  },
-  {
-    "StopId": 3377,
-    "Code": "Q9 101",
-    "Name": "Công Ty FILIED",
-    "StopType": "Ô sơn",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Đối diện công ty Filied",
-    "Street": "Lê Văn Việt",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.807355,
-    "Lat": 10.848738,
-    "Search": "CTF DdctF LVV",
-    "Routes": "56, 99"
-  },
-  {
-    "StopId": 1533,
-    "Code": "Q9 102",
-    "Name": "Chung cư C7",
-    "StopType": "Nhà chờ",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Tăng Nhơn Phú A",
-    "AddressNo": "Chung cư C7 (Đối diện 504)",
-    "Street": "Lê Văn Việt",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.800048,
-    "Lat": 10.846957,
-    "Search": "CcC CcC(d504) LVV",
     "Routes": "56, 99"
   },
   {
@@ -64771,7 +65155,7 @@
     "StopId": 8291,
     "Code": "HCC 361",
     "Name": "Chợ Bình Mỹ",
-    "StopType": "Ô sơn",
+    "StopType": "Trụ dừng",
     "Zone": "Huyện Củ Chi",
     "Ward": "Xã Bình Mỹ",
     "AddressNo": "412",
@@ -65405,7 +65789,7 @@
     "Lng": 106.668524,
     "Lat": 10.96564,
     "Search": "BxkBD BxkBD D30t4",
-    "Routes": "60-15, 61-2, 61-3, 61-4, 61-8, 61-9"
+    "Routes": "60-15, 61-3, 61-4, 61-8, 61-9"
   },
   {
     "StopId": 8317,
@@ -65421,7 +65805,7 @@
     "Lng": 106.669017,
     "Lat": 10.966524,
     "Search": "BxktBD(cdl s233,d30/4,PTDM d30/4",
-    "Routes": "60-15, 60-18, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52, 61-53"
+    "Routes": "60-15, 60-18, 61-2, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52, 61-53"
   },
   {
     "StopId": 8315,
@@ -65437,7 +65821,7 @@
     "Lng": 106.670637,
     "Lat": 10.970393,
     "Search": "SvdGD-BD dd254,d30/4,PTDM d30/4",
-    "Routes": "60-15, 60-18, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52, 61-53"
+    "Routes": "60-15, 60-18, 61-2, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52, 61-53"
   },
   {
     "StopId": 8337,
@@ -67101,7 +67485,7 @@
     "Lng": 106.670938,
     "Lat": 10.971605,
     "Search": "OtQc(chvtHn s214,d30/4,PTDM d30/4",
-    "Routes": "60-15, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52"
+    "Routes": "60-15, 61-2, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52"
   },
   {
     "StopId": 8314,
@@ -67117,7 +67501,7 @@
     "Lng": 106.670407,
     "Lat": 10.970443,
     "Search": "SvdGD-BD s256,d30/4,PTDM d30/4",
-    "Routes": "60-15, 60-18, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52, 61-53"
+    "Routes": "60-15, 60-18, 61-2, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52, 61-53"
   },
   {
     "StopId": 8316,
@@ -67133,7 +67517,7 @@
     "Lng": 106.669003,
     "Lat": 10.96701,
     "Search": "BxktBDtgbd d30/4,PTDM d30/4",
-    "Routes": "60-15, 60-18, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52, 61-53"
+    "Routes": "60-15, 60-18, 61-2, 61-3, 61-37, 61-38, 61-39, 61-51, 61-52, 61-53"
   },
   {
     "StopId": 9338,
@@ -67213,7 +67597,7 @@
     "Lng": 106.655921,
     "Lat": 10.978622,
     "Search": "DdCvPC CvPC DC",
-    "Routes": "60-18, 61-4, 61-51, 61-52, 61-53, 61-9"
+    "Routes": "60-18, 61-2, 61-4, 61-51, 61-52, 61-53, 61-9"
   },
   {
     "StopId": 8321,
@@ -67293,7 +67677,7 @@
     "Lng": 106.672375,
     "Lat": 10.980238,
     "Search": "NvhtBD NvhtBD D30/4",
-    "Routes": "60-18"
+    "Routes": "60-18, 61-2"
   },
   {
     "StopId": 8870,
@@ -67309,7 +67693,7 @@
     "Lng": 106.672525,
     "Lat": 10.982039,
     "Search": "DtnxptBD DtnxptBD PL",
-    "Routes": "60-18, 61-9"
+    "Routes": "60-18, 61-2, 61-9"
   },
   {
     "StopId": 8808,
@@ -67325,7 +67709,7 @@
     "Lng": 106.674945,
     "Lat": 10.982445,
     "Search": "NtPL NtPL DD743",
-    "Routes": "60-18, 61-9"
+    "Routes": "60-18, 61-2, 61-9"
   },
   {
     "StopId": 8810,
@@ -67920,6 +68304,22 @@
     "Routes": "60-3"
   },
   {
+    "StopId": 10070,
+    "Code": "BD-1047",
+    "Name": "Đại học Thủ Dầu Một (CS1)",
+    "StopType": "Bến xe",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Đại học Thủ Dầu Một (CS1)",
+    "Street": "Trần Văn Ơn",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.675379,
+    "Lat": 10.98078,
+    "Search": "DhTDM( DhTDM( TVO",
+    "Routes": "61-2"
+  },
+  {
     "StopId": 9577,
     "Code": "BD-0353",
     "Name": "Bánh hotdog",
@@ -68192,51 +68592,99 @@
     "Routes": "61-2"
   },
   {
-    "StopId": 9077,
-    "Code": "BD-0791",
-    "Name": "Cổng khu công nghiệp Mỹ Phước 3.1",
-    "StopType": "Ô sơn",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Cổng khu công nghiệp Mỹ Phước 3.1",
-    "Street": "Quốc lộ 13",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.625656,
-    "Lat": 11.098514,
-    "Search": "CkcnMP3.1 CkcnMP3.1 Ql13",
-    "Routes": "61-2, 61-70"
-  },
-  {
-    "StopId": 8526,
-    "Code": "BD-0168",
-    "Name": "Trạm Xăng Thới Hòa",
+    "StopId": 10072,
+    "Code": "BD-1048",
+    "Name": "Điện cơ Thanh Phong",
     "StopType": "Trụ - hộp thông tin",
     "Zone": "Bình Dương",
     "Ward": null,
-    "AddressNo": "Trạm Xăng Thới Hòa",
-    "Street": "Quốc Lộ 13",
+    "AddressNo": "Điện cơ Thanh Phong",
+    "Street": "NA2",
     "SupportDisability": "Có",
     "Status": "Đang khai thác",
-    "Lng": 106.623845,
-    "Lat": 11.103394,
-    "Search": "TXTH TXTH QL13",
-    "Routes": "61-2, 61-70"
+    "Lng": 106.621787,
+    "Lat": 11.096687,
+    "Search": "DcTP DcTP N",
+    "Routes": "61-2"
   },
   {
-    "StopId": 8534,
-    "Code": "BD-0171",
-    "Name": "EcoLakes Mỹ Phước",
-    "StopType": "Nhà chờ",
+    "StopId": 10073,
+    "Code": "BD-1049",
+    "Name": "Công ty TNHH Tâm Anh Long",
+    "StopType": "Trụ - hộp thông tin",
     "Zone": "Bình Dương",
     "Ward": null,
-    "AddressNo": "EcoLakes Mỹ Phước",
-    "Street": "Quốc Lộ 13",
+    "AddressNo": "kế bên Công ty TNHH Tâm Anh Long",
+    "Street": "NA2",
     "SupportDisability": "Có",
     "Status": "Đang khai thác",
-    "Lng": 106.61843,
-    "Lat": 11.111283,
-    "Search": "EMP EMP QL13",
+    "Lng": 106.609986,
+    "Lat": 11.092389,
+    "Search": "CtTTAL kbCtTTAL N",
+    "Routes": "61-2"
+  },
+  {
+    "StopId": 10074,
+    "Code": "BD-1050",
+    "Name": "Đại học Thủ Dầu Một (CS2)",
+    "StopType": "Trụ - hộp thông tin",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Đại học Thủ Dầu Một (CS2)",
+    "Street": "NA2",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.601163,
+    "Lat": 11.08922,
+    "Search": "DhTDM( DhTDM( N",
+    "Routes": "61-2"
+  },
+  {
+    "StopId": 10075,
+    "Code": "BD-1051",
+    "Name": "Công ty CP Quốc tế Bắc Sài Gòn",
+    "StopType": "Trụ - hộp thông tin",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Đối diện Công ty CP Quốc tế Bắc Sài Gòn",
+    "Street": "Vành đai 4",
+    "SupportDisability": "",
+    "Status": "Chưa khai thác",
+    "Lng": 106.606139,
+    "Lat": 11.107183,
+    "Search": "CtCQtBSG DdCtCQtBSG Vd4",
+    "Routes": "61-2"
+  },
+  {
+    "StopId": 10080,
+    "Code": "BD-1056",
+    "Name": "Đại học Việt Đức",
+    "StopType": "Trụ - hộp thông tin",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Đại học Việt Đức (cổng vào)",
+    "Street": "Nội bộ",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.613133,
+    "Lat": 11.109133,
+    "Search": "DhVD DhVD(v Nb",
+    "Routes": "61-2"
+  },
+  {
+    "StopId": 8532,
+    "Code": "BD-0170",
+    "Name": "Đại học Việt Đức",
+    "StopType": "Trụ - hộp thông tin",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Đại học Việt Đức",
+    "Street": "Nội bộ Đại Học Việt Đức",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.613779,
+    "Lat": 11.109361,
+    "Search": "DhVD DhVD NbDHVD",
     "Routes": "61-2, 61-70"
   },
   {
@@ -68304,132 +68752,20 @@
     "Routes": "61-2, 61-70"
   },
   {
-    "StopId": 8577,
-    "Code": "BD-0187",
-    "Name": "Ủy Ban Nhân Dân TP.Bến Cát",
-    "StopType": "Nhà chờ",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Ủy Ban Nhân Dân TP.Bến Cát",
-    "Street": "30/4",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.593653,
-    "Lat": 11.151322,
-    "Search": "?BNDTC ?BNDTC 30/4",
-    "Routes": "61-2, 61-70"
-  },
-  {
-    "StopId": 9346,
-    "Code": "BD BX  0013",
-    "Name": "Bưu điện Thành phố Bến Cát",
+    "StopId": 10081,
+    "Code": "BD-1057",
+    "Name": "Trung Tâm Hội Nghị Triển Lãm Bến Cát",
     "StopType": "Bến xe",
     "Zone": "Bình Dương",
     "Ward": null,
-    "AddressNo": "Bưu điện Thành phố Bến Cát",
-    "Street": "Đường 30 tháng 4",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.591904,
-    "Lat": 11.152417,
-    "Search": "BdTpBC BdTpBC D30t4",
-    "Routes": "61-2, 61-70"
-  },
-  {
-    "StopId": 8579,
-    "Code": "BD-0189",
-    "Name": "Bưu điện TP Bến Cát",
-    "StopType": "Trụ - hộp thông tin",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Bưu điện TP Bến Cát",
-    "Street": "30/4",
+    "AddressNo": "Trung Tâm Hội Nghị và Triển Lãm Bến Cát",
+    "Street": "30 tháng 4",
     "SupportDisability": "Có",
     "Status": "Đang khai thác",
-    "Lng": 106.591583,
-    "Lat": 11.152639,
-    "Search": "BdTBC BdTBC 30/4",
+    "Lng": 106.594254,
+    "Lat": 11.150051,
+    "Search": "TTHNTLBC TTHNvTLBC 30t4",
     "Routes": "61-2"
-  },
-  {
-    "StopId": 8533,
-    "Code": "BD-0306",
-    "Name": "Đội thuế liên phường xã số 1",
-    "StopType": "Trụ - hộp thông tin",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Đội thuế liên phường xã số 1",
-    "Street": "Hùng Vương",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.591029,
-    "Lat": 11.153993,
-    "Search": "Dtlpxs1 Dtlpxs1 HV",
-    "Routes": "61-2"
-  },
-  {
-    "StopId": 9336,
-    "Code": "BD BX 0003",
-    "Name": "Ngã ba Công an Bến Cát",
-    "StopType": "Bến xe",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Ngã ba Công an Bến Cát",
-    "Street": "Quốc lộ 13",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.592719,
-    "Lat": 11.155688,
-    "Search": "NbCaBC NbCaBC Ql13",
-    "Routes": "61-2"
-  },
-  {
-    "StopId": 8531,
-    "Code": "BD-0305",
-    "Name": "Quảng cáo Minh Quang Đối diện cty luật B.C.M",
-    "StopType": "Trụ - hộp thông tin",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Quảng cáo Minh Quang Đối diện cty luật B.C.M",
-    "Street": "Hùng Vương",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.591265,
-    "Lat": 11.154614,
-    "Search": "QcMQDdclB QcMQDdclB HV",
-    "Routes": "61-2"
-  },
-  {
-    "StopId": 8580,
-    "Code": "BD-0190",
-    "Name": "Bưu điện TP Bến Cát",
-    "StopType": "Nhà chờ",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Bưu điện TP Bến Cát",
-    "Street": "30/4",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.591947,
-    "Lat": 11.152178,
-    "Search": "BdTBC BdTBC 30/4",
-    "Routes": "61-2, 61-70"
-  },
-  {
-    "StopId": 8578,
-    "Code": "BD-0188",
-    "Name": "Ủy Ban Nhân Dân TP.Bến Cát",
-    "StopType": "Nhà chờ",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Ủy Ban Nhân Dân TP.Bến Cát",
-    "Street": "30/4",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.593902,
-    "Lat": 11.151058,
-    "Search": "?BNDTC ?BNDTC 30/4",
-    "Routes": "61-2, 61-70"
   },
   {
     "StopId": 8575,
@@ -68512,52 +68848,52 @@
     "Routes": "61-2, 61-70"
   },
   {
-    "StopId": 8535,
-    "Code": "BD-0172",
-    "Name": "EcoLakes Mỹ Phước",
+    "StopId": 10079,
+    "Code": "BD-1055",
+    "Name": "Công ty CP Quốc tế Bắc Sài Gòn",
     "StopType": "Trụ - hộp thông tin",
     "Zone": "Bình Dương",
     "Ward": null,
-    "AddressNo": "EcoLakes Mỹ Phước",
-    "Street": "Quốc Lộ 13",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.61824,
-    "Lat": 11.111273,
-    "Search": "EMP EMP QL13",
-    "Routes": "61-2, 61-70"
-  },
-  {
-    "StopId": 8528,
-    "Code": "BD-0169",
-    "Name": "Trạm Xăng Thới Hòa",
-    "StopType": "Trụ - hộp thông tin",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Trạm Xăng Thới Hòa",
-    "Street": "Quốc Lộ 13",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.623092,
-    "Lat": 11.104387,
-    "Search": "TXTH TXTH QL13",
-    "Routes": "61-2, 61-70"
-  },
-  {
-    "StopId": 9071,
-    "Code": "BD-0785",
-    "Name": "Cổng khu công nghiệp Mỹ Phước 3",
-    "StopType": "Ô sơn",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": "Cổng khu công nghiệp Mỹ Phước 3",
-    "Street": "Quốc lộ 13",
+    "AddressNo": "Công ty CP Quốc tế Bắc Sài Gòn",
+    "Street": "Vành đai 4",
     "SupportDisability": "",
     "Status": "Đang khai thác",
-    "Lng": 106.625415,
-    "Lat": 11.098283,
-    "Search": "CkcnMP3 CkcnMP3 Ql13",
-    "Routes": "61-2, 61-70"
+    "Lng": 106.605896,
+    "Lat": 11.107541,
+    "Search": "CtCQtBSG CtCQtBSG Vd4",
+    "Routes": "61-2"
+  },
+  {
+    "StopId": 10077,
+    "Code": "BD-1053",
+    "Name": "Công ty TNHH Tâm Anh Long",
+    "StopType": "Trụ - hộp thông tin",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Đối diện Công ty TNHH Tâm Anh Long",
+    "Street": "NA2",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.609829,
+    "Lat": 11.092105,
+    "Search": "CtTTAL DdCtTTAL N",
+    "Routes": "61-2"
+  },
+  {
+    "StopId": 10076,
+    "Code": "BD-1052",
+    "Name": "Điện cơ Thanh Phong",
+    "StopType": "Trụ - hộp thông tin",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Đối diện Điện cơ Thanh Phong",
+    "Street": "NA2",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.621523,
+    "Lat": 11.096387,
+    "Search": "DcTP DdDcTP N",
+    "Routes": "61-2"
   },
   {
     "StopId": 9078,
@@ -68830,6 +69166,22 @@
     "Lat": 10.968552,
     "Search": "NbLC NbLC DC",
     "Routes": "61-2, 61-4, 61-51, 61-52, 61-53, 61-9"
+  },
+  {
+    "StopId": 8793,
+    "Code": "BD-0540",
+    "Name": "Sân vận động Bình Dương (Trung tâm huấn luyện và thi đấu thể thảo cs2)",
+    "StopType": "Nhà chờ",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": " đối diện 188a, đường 30/4, Phường Thủ Dầu Một",
+    "Street": "Đường 30/4",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.671316,
+    "Lat": 10.972226,
+    "Search": "SvdBD(thlvtdttc dd188a,d30/4,PTDM D30/4",
+    "Routes": "61-2, 61-37, 61-38, 61-39, 61-53"
   },
   {
     "StopId": 9355,
@@ -69790,22 +70142,6 @@
     "Lat": 10.963954,
     "Search": "TTNTMK TTNTMK Cmt8",
     "Routes": "61-37, 61-38, 61-39, 61-8"
-  },
-  {
-    "StopId": 8793,
-    "Code": "BD-0540",
-    "Name": "Sân vận động Bình Dương (Trung tâm huấn luyện và thi đấu thể thảo cs2)",
-    "StopType": "Nhà chờ",
-    "Zone": "Bình Dương",
-    "Ward": null,
-    "AddressNo": " đối diện 188a, đường 30/4, Phường Thủ Dầu Một",
-    "Street": "Đường 30/4",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.671316,
-    "Lat": 10.972226,
-    "Search": "SvdBD(thlvtdttc dd188a,d30/4,PTDM D30/4",
-    "Routes": "61-37, 61-38, 61-39, 61-53"
   },
   {
     "StopId": 8377,
@@ -71984,19 +72320,51 @@
     "Routes": "61-70"
   },
   {
-    "StopId": 8532,
-    "Code": "BD-0170",
-    "Name": "Đại học Việt Đức",
+    "StopId": 9077,
+    "Code": "BD-0791",
+    "Name": "Cổng khu công nghiệp Mỹ Phước 3.1",
+    "StopType": "Ô sơn",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Cổng khu công nghiệp Mỹ Phước 3.1",
+    "Street": "Quốc lộ 13",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.625656,
+    "Lat": 11.098514,
+    "Search": "CkcnMP3.1 CkcnMP3.1 Ql13",
+    "Routes": "61-70"
+  },
+  {
+    "StopId": 8526,
+    "Code": "BD-0168",
+    "Name": "Trạm Xăng Thới Hòa",
     "StopType": "Trụ - hộp thông tin",
     "Zone": "Bình Dương",
     "Ward": null,
-    "AddressNo": "Đại học Việt Đức",
-    "Street": "Nội bộ Đại Học Việt Đức",
+    "AddressNo": "Trạm Xăng Thới Hòa",
+    "Street": "Quốc Lộ 13",
     "SupportDisability": "Có",
     "Status": "Đang khai thác",
-    "Lng": 106.613779,
-    "Lat": 11.109361,
-    "Search": "DhVD DhVD NbDHVD",
+    "Lng": 106.623845,
+    "Lat": 11.103394,
+    "Search": "TXTH TXTH QL13",
+    "Routes": "61-70"
+  },
+  {
+    "StopId": 8534,
+    "Code": "BD-0171",
+    "Name": "EcoLakes Mỹ Phước",
+    "StopType": "Nhà chờ",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "EcoLakes Mỹ Phước",
+    "Street": "Quốc Lộ 13",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.61843,
+    "Lat": 11.111283,
+    "Search": "EMP EMP QL13",
     "Routes": "61-70"
   },
   {
@@ -72029,6 +72397,70 @@
     "Lng": 106.605169,
     "Lat": 11.130379,
     "Search": "CapMP CapMP DD",
+    "Routes": "61-70"
+  },
+  {
+    "StopId": 8577,
+    "Code": "BD-0187",
+    "Name": "Ủy Ban Nhân Dân TP.Bến Cát",
+    "StopType": "Nhà chờ",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Ủy Ban Nhân Dân TP.Bến Cát",
+    "Street": "30/4",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.593653,
+    "Lat": 11.151322,
+    "Search": "?BNDTC ?BNDTC 30/4",
+    "Routes": "61-70"
+  },
+  {
+    "StopId": 9346,
+    "Code": "BD BX  0013",
+    "Name": "Bưu điện Thành phố Bến Cát",
+    "StopType": "Bến xe",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Bưu điện Thành phố Bến Cát",
+    "Street": "Đường 30 tháng 4",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.591904,
+    "Lat": 11.152417,
+    "Search": "BdTpBC BdTpBC D30t4",
+    "Routes": "61-70"
+  },
+  {
+    "StopId": 8580,
+    "Code": "BD-0190",
+    "Name": "Bưu điện TP Bến Cát",
+    "StopType": "Nhà chờ",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Bưu điện TP Bến Cát",
+    "Street": "30/4",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.591947,
+    "Lat": 11.152178,
+    "Search": "BdTBC BdTBC 30/4",
+    "Routes": "61-70"
+  },
+  {
+    "StopId": 8578,
+    "Code": "BD-0188",
+    "Name": "Ủy Ban Nhân Dân TP.Bến Cát",
+    "StopType": "Nhà chờ",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Ủy Ban Nhân Dân TP.Bến Cát",
+    "Street": "30/4",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.593902,
+    "Lat": 11.151058,
+    "Search": "?BNDTC ?BNDTC 30/4",
     "Routes": "61-70"
   },
   {
@@ -72077,6 +72509,54 @@
     "Lng": 106.612498,
     "Lat": 11.123853,
     "Search": "TThDT TThDT DD",
+    "Routes": "61-70"
+  },
+  {
+    "StopId": 8535,
+    "Code": "BD-0172",
+    "Name": "EcoLakes Mỹ Phước",
+    "StopType": "Trụ - hộp thông tin",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "EcoLakes Mỹ Phước",
+    "Street": "Quốc Lộ 13",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.61824,
+    "Lat": 11.111273,
+    "Search": "EMP EMP QL13",
+    "Routes": "61-70"
+  },
+  {
+    "StopId": 8528,
+    "Code": "BD-0169",
+    "Name": "Trạm Xăng Thới Hòa",
+    "StopType": "Trụ - hộp thông tin",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Trạm Xăng Thới Hòa",
+    "Street": "Quốc Lộ 13",
+    "SupportDisability": "Có",
+    "Status": "Đang khai thác",
+    "Lng": 106.623092,
+    "Lat": 11.104387,
+    "Search": "TXTH TXTH QL13",
+    "Routes": "61-70"
+  },
+  {
+    "StopId": 9071,
+    "Code": "BD-0785",
+    "Name": "Cổng khu công nghiệp Mỹ Phước 3",
+    "StopType": "Ô sơn",
+    "Zone": "Bình Dương",
+    "Ward": null,
+    "AddressNo": "Cổng khu công nghiệp Mỹ Phước 3",
+    "Street": "Quốc lộ 13",
+    "SupportDisability": "",
+    "Status": "Đang khai thác",
+    "Lng": 106.625415,
+    "Lat": 11.098283,
+    "Search": "CkcnMP3 CkcnMP3 Ql13",
     "Routes": "61-70"
   },
   {
@@ -87261,7 +87741,7 @@
     "Lng": 106.963259,
     "Lat": 10.406061,
     "Search": "DH 290/3 DH",
-    "Routes": "77"
+    "Routes": "77, 90"
   },
   {
     "StopId": 9394,
@@ -93344,22 +93824,6 @@
     "Routes": "99"
   },
   {
-    "StopId": 7696,
-    "Code": "BX 34",
-    "Name": "Vinhomes Grandpark",
-    "StopType": "Bến xe",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "KDC Vinhome Grandpark Quận 9",
-    "Street": "Nội khu Vinhomes",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.842998,
-    "Lat": 10.846214,
-    "Search": "VG KVGQ9 NkV",
-    "Routes": "D4"
-  },
-  {
     "StopId": 7783,
     "Code": "Q9 294",
     "Name": "Phân khu Masteri",
@@ -93389,182 +93853,6 @@
     "Lng": 106.838833,
     "Lat": 10.842962,
     "Search": "TnS TnS NkV",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 7785,
-    "Code": "Q9 298",
-    "Name": "Tòa nhà S5.03",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Tòa nhà S5.03",
-    "Street": "Nội khu Vinhomes",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.837897,
-    "Lat": 10.840912,
-    "Search": "TnS TnS NkV",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 7786,
-    "Code": "Q9 300",
-    "Name": "Tòa nhà S3.03",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Tòa nhà S3.03",
-    "Street": "Nội khu Vinhomes",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.835002,
-    "Lat": 10.838327,
-    "Search": "TnS TnS NkV",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 7787,
-    "Code": "Q9 302",
-    "Name": "Tòa nhà S2.05",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Tòa nhà S2.05",
-    "Street": "Nội khu Vinhomes",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.833042,
-    "Lat": 10.837612,
-    "Search": "TnS TnS NkV",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 7788,
-    "Code": "Q9 304",
-    "Name": "Tòa nhà S2.01",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Tòa nhà S2.01",
-    "Street": "Nội khu Vinhomes",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.832135,
-    "Lat": 10.837241,
-    "Search": "TnS TnS NkV",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 7789,
-    "Code": "Q9 306",
-    "Name": "Tòa nhà S1.01",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Toà nhà S1.01",
-    "Street": "Nội khu Vinhomes",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.830621,
-    "Lat": 10.836804,
-    "Search": "TnS TnS NkV",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 3372,
-    "Code": "Q9T175",
-    "Name": "Chợ Gò Công",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "445 - 447",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.827632,
-    "Lat": 10.842052,
-    "Search": "CGC 445-447 NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 3373,
-    "Code": "Q9 188",
-    "Name": "UBND phường Long Bình",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "367A",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.825433,
-    "Lat": 10.841209,
-    "Search": "UpLB 367A NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 4259,
-    "Code": "Q9 065",
-    "Name": "Cao đẳng Cảnh sát nhân dân 2",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": null,
-    "AddressNo": "225-221",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.820444,
-    "Lat": 10.842463,
-    "Search": "CdCsnd2 225-221 NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 3375,
-    "Code": "Q9T177",
-    "Name": "Trường Nguyễn Huệ",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "161-163 (159)",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.818352,
-    "Lat": 10.844096,
-    "Search": "TNH 161-163( NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 4132,
-    "Code": "Q9 264",
-    "Name": "Nhà thờ Thánh Cẩm",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "69 - 71",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.816571,
-    "Lat": 10.846646,
-    "Search": "NtTC 69-71 NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 4131,
-    "Code": "Q9T179",
-    "Name": "Ngã ba Mỹ Thành (đường Nguyễn Văn Tăng)",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "9 - 11",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.814682,
-    "Lat": 10.849007,
-    "Search": "NbMT(NVT 9-11 NVT",
     "Routes": "D4"
   },
   {
@@ -93613,150 +93901,6 @@
     "Lng": 106.81273,
     "Lat": 10.84022,
     "Search": "SHP DdCSHP D",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 3371,
-    "Code": "Q9 191",
-    "Name": "Ngã ba Mỹ Thành (đường Nguyễn Văn Tăng)",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "28 - 30",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.814302,
-    "Lat": 10.849249,
-    "Search": "NbMT(NVT 28-30 NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 7580,
-    "Code": "Q9 191A",
-    "Name": "Nhà thờ Thánh Cẩm",
-    "StopType": "Biển treo",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "110-112",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.816463,
-    "Lat": 10.846404,
-    "Search": "NtTC 110-112 NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 3392,
-    "Code": "Q9 192",
-    "Name": "Trường THPT Nguyễn Huệ",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "174",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.817963,
-    "Lat": 10.844434,
-    "Search": "TTNH 174 NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 4258,
-    "Code": "Q9 064",
-    "Name": "Cao đẳng Cảnh sát nhân dân 2",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": null,
-    "AddressNo": "Trung tâm sát hạch lái xe - CĐ CSND 2",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.819865,
-    "Lat": 10.842589,
-    "Search": "CdCsnd2 Ttshlx-CC2 NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 3396,
-    "Code": "Q9 193",
-    "Name": "UBND phường Long Bình",
-    "StopType": "Trụ dừng",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "354",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.824231,
-    "Lat": 10.841062,
-    "Search": "UpLB 354 NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 3393,
-    "Code": "Q9 194",
-    "Name": "Chợ Gò Công",
-    "StopType": "Ô sơn",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": null,
-    "AddressNo": "462 - 464",
-    "Street": "Nguyễn Văn Tăng",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.828067,
-    "Lat": 10.842184,
-    "Search": "CGC 462-464 NVT",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 7790,
-    "Code": "Q9 305",
-    "Name": "Tòa nhà S1.01",
-    "StopType": "Nhà chờ",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Đối diện Tòa nhà S1.01",
-    "Street": "Nội khu Vinhomes",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.830558,
-    "Lat": 10.836589,
-    "Search": "TnS DdTnS NkV",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 7791,
-    "Code": "Q9 303",
-    "Name": "Tòa nhà S2.05",
-    "StopType": "Nhà chờ",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Đối diện Tòa nhà S2.05",
-    "Street": "Nội khu Vinhomes",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.833024,
-    "Lat": 10.837446,
-    "Search": "TnS DdTnS NkV",
-    "Routes": "D4"
-  },
-  {
-    "StopId": 7792,
-    "Code": "Q9 301",
-    "Name": "Tòa nhà S3.03",
-    "StopType": "Nhà chờ",
-    "Zone": "TP. Thủ Đức - KV2",
-    "Ward": "Phường Long Thạnh Mỹ",
-    "AddressNo": "Đối diện Tòa nhà S3.03",
-    "Street": "Nội khu Vinhomes",
-    "SupportDisability": "Có",
-    "Status": "Đang khai thác",
-    "Lng": 106.834957,
-    "Lat": 10.838155,
-    "Search": "TnS DdTnS NkV",
     "Routes": "D4"
   },
   {
@@ -93952,22 +94096,6 @@
     "Routes": "DL02"
   },
   {
-    "StopId": 7078,
-    "Code": "Q1 174",
-    "Name": "Nhà hát Thành phố",
-    "StopType": "Ô sơn",
-    "Zone": "Quận 1",
-    "Ward": "Phường Bến Nghé",
-    "AddressNo": "127-129",
-    "Street": "Đồng Khởi",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.703709,
-    "Lat": 10.775407,
-    "Search": "NhTp 127-129 DK",
-    "Routes": "DL02, DL05"
-  },
-  {
     "StopId": 4267,
     "Code": "Q1 055",
     "Name": "Nguyễn Huệ",
@@ -93981,22 +94109,6 @@
     "Lng": 106.702545,
     "Lat": 10.774711,
     "Search": "NH Dd92-96 NH",
-    "Routes": "DL02"
-  },
-  {
-    "StopId": 4224,
-    "Code": "Q1 172",
-    "Name": "Trung tâm VinCom",
-    "StopType": "Ô sơn",
-    "Zone": "Quận 1",
-    "Ward": "Phường Bến Nghé",
-    "AddressNo": "171",
-    "Street": "Đồng Khởi",
-    "SupportDisability": "",
-    "Status": "Đang khai thác",
-    "Lng": 106.702191,
-    "Lat": 10.776782,
-    "Search": "TtV 171 DK",
     "Routes": "DL02"
   },
   {
